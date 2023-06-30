@@ -21,7 +21,7 @@ do
                 pwd
                 exit
         fi
-        sshpass -p $PASSWORD ssh -t $DESTINATION "echo 1 > /sys/kernel/debug/tracing/tracing_on"
+        sshpass -p $PASSWORD ssh -t $DESTINATION "echo > /sys/kernel/debug/tracing/trace; echo 1 > /sys/kernel/debug/tracing/tracing_on"
         MALLOC_CHECK_=2 $TRINITY_PATH/trinity -a 64 -c $syscall -l off -C 1 $DROPPRIVS
         sshpass -p $PASSWORD ssh -t $DESTINATION "echo 0 > /sys/kernel/debug/tracing/tracing_on; cat /sys/kernel/debug/tracing/trace | grep pool > /home/kataworker/ftraceresult/${syscall}.txt;"
         sshpass -p $PASSWORD scp /program/${syscall}_test.txt $DESTINATION:/home/kataworker/trinityresult
