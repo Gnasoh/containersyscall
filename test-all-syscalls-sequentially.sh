@@ -9,6 +9,7 @@
 
 DESTINATION=kataworker@192.168.122.109
 PASSWORD=1234
+XLIST=()
 
 while [ 1 ]
 do
@@ -21,10 +22,16 @@ do
                 pwd
                 exit
         fi
-        sshpass -p $PASSWORD ssh -t $DESTINATION "echo > /sys/kernel/debug/tracing/trace; echo 1 > /sys/kernel/debug/tracing/tracing_on"
-        MALLOC_CHECK_=2 $TRINITY_PATH/trinity -a 64 -c $syscall -C 1 -N 1000 -x fremovexattr -x process_madvise -x faccessat2 -x mount -x prlimit64 $DROPPRIVS
-        sshpass -p $PASSWORD ssh -t $DESTINATION "echo 0 > /sys/kernel/debug/tracing/tracing_on; cat /sys/kernel/debug/tracing/trace | grep pool > /home/kataworker/ftraceresult/${syscall}.txt;"
-        sshpass -p $PASSWORD scp /program/${syscall}.txt $DESTINATION:/home/kataworker/trinityresult
+        for i in ${array[@]}
+        do
+                if[$syscall != $i]
+                then
+                        sshpass -p $PASSWORD ssh -t $DESTINATION "echo > /sys/kernel/debug/tracing/trace; echo 1 > /sys/kernel/debug/tracing/tracing_on"
+                        MALLOC_CHECK_=2 $TRINITY_PATH/trinity -a 64 -c $syscall -C 1 -N 1000 $DROPPRIVS
+                        sshpass -p $PASSWORD ssh -t $DESTINATION "echo 0 > /sys/kernel/debug/tracing/tracing_on; cat /sys/kernel/debug/tracing/trace | grep pool > /home/kataworker/ftraceresult/${syscall}.txt;"
+                        sshpass -p $PASSWORD scp /program/${syscall}.txt $DESTINATION:/home/kataworker/trinityresult            
+                fi
+        done
 
         chmod 755 $TRINITY_TMP
         popd
