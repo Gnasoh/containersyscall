@@ -9,8 +9,8 @@ trinitypath = '/home/kataworker/trinityresult/'
 def parsing(file, file2):
     ft = ftracepath + file
     tr = trinitypath + file2
-    f = open(file, 'r')
-    f2 = open(file2, 'r')
+    f = open(ft, 'r')
+    f2 = open(tr, 'r')
     dict = {}
     p = 0
     m = [0,0,0]
@@ -53,7 +53,7 @@ def parsing(file, file2):
             dellist = []
             result = result[:-18]
             result.append(dict)
-            dict = {}
+            # dict = {}
             result.append(' ')
             
         if r == '':break
@@ -156,6 +156,9 @@ def parsing(file, file2):
 
 ftracelist = os.listdir(ftracepath)
 trinitylist = os.listdir(trinitypath)
+
+ftracelist.sort()
+trinitylist.sort()
 
 for f, t in zip(ftracelist,trinitylist):
     parsing(f,t)
