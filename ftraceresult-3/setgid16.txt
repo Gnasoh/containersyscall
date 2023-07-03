@@ -1,0 +1,12 @@
+            pool-623760  [001] ..... 712507.627611: sys_futex -> 0x0
+            pool-623760  [001] ..... 712507.627617: sys_close(fd: 30a5)
+            pool-623760  [001] ..... 712507.627619: sys_close -> 0x0
+            pool-623760  [001] ..... 712507.627659: sys_write(fd: e, buf: 7f1c5b7fda28, count: 8)
+            pool-623760  [001] ..... 712507.627665: sys_write -> 0x8
+            pool-623760  [001] ..... 712507.627667: sys_futex(uaddr: 7f1c5c000bd0, op: 80, val: 42e9, utime: 7f1c5b7fdc40, uaddr2: adf3c, val3: adf3c)
+            pool-623760  [001] ..... 712508.110281: sys_futex -> 0x0
+            pool-623760  [001] ..... 712508.110287: sys_close(fd: 30b9)
+            pool-623760  [001] ..... 712508.110287: sys_close -> 0x0
+            pool-623760  [001] ..... 712508.110314: sys_write(fd: e, buf: 7f1c5b7fda28, count: 8)
+            pool-623760  [001] ..... 712508.110320: sys_write -> 0x8
+            pool-623760  [001] ..... 712508.110321: sys_futex(uaddr: 7f1c5c000bd0, op: 80, val: 42ea, utime: 7f1c5b7fdc40, uaddr2: adf3d, val3: adf3d)

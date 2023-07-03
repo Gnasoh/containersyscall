@@ -1,8 +1,14 @@
 import re
 import sys
-from matplotlib import pyplot as plt
+import os
+# from matplotlib import pyplot as plt
+
+ftracepath = '/home/kataworker/ftraceresult/'
+trinitypath = '/home/kataworker/trinityresult/'
 
 def parsing(file, file2):
+    ft = ftracepath + file
+    tr = trinitypath + file2
     f = open(file, 'r')
     f2 = open(file2, 'r')
     dict = {}
@@ -70,11 +76,18 @@ def parsing(file, file2):
                     p = 0
                     result.append(' ')
 
-        if char != 'sys_fsync' and mode == 1:
-            m[0] = 0
-            m[1] = 0
-            m[2] = 0
-            mode = 0
+        if mode == 1:
+            if char == 'sys_futex':
+                if m[2] == 2:
+                    pass
+                elif m[2] > 2:
+                    m[2] -= 1
+
+            elif char != 'sys_fsync':
+                m[0] = 0
+                m[1] = 0
+                m[2] = 0
+                mode = 0
         if char == 'sys_fsync' and p == 0:
             m[0] += 1
         elif m[0] > 1 and char == 'sys_write':
@@ -88,19 +101,25 @@ def parsing(file, file2):
             m[1] = 0
             m[2] = 0
 
-        if char != 'sys_fdatasync' and mode == 1:
-            n[0] = 0
-            n[1] = 0
-            n[2] = 0
-            mode = 0
+        if mode == 1:
+            if char == 'sys_futex':
+                if n[2] == 2:
+                    pass
+                elif n[2] > 2:
+                    n[2] -= 1
+            elif char != 'sys_fdatasync':
+                n[0] = 0
+                n[1] = 0
+                n[2] = 0
+                mode = 0
         if char == 'sys_fdatasync' and p == 1:
             n[0] += 1
         elif n[0] > 1 and char == 'sys_write':
             n[1] += 1
         elif n[0] > 1 and n[1] > 1 and char == 'sys_futex':
             n[2] += 1
-            # if n[2] == 2:
-            #     mode = 1
+            if n[2] == 2:
+                mode = 1
         else:
             n[0] = 0
             n[1] = 0
@@ -125,7 +144,7 @@ def parsing(file, file2):
     for i in result:
         print(i)
 
-    PATH = '/home/kataworker/result/result.txt'
+    PATH = '/home/kataworker/result/' + file
     f = open(PATH, 'w')
 
     for i in result:
@@ -135,10 +154,8 @@ def parsing(file, file2):
             continue
     f.close()
 
-katafile = '/home/kataworker/ftraceresult/06291555.txt'
-gvisorfile = '/home/kataworker/ftraceresult/gvisor.txt'
-kata_trinityfile = '/home/kataworker/trinityresult.txt'
-gvisor_trinityfile = ''
+ftracelist = os.listdir(ftracepath)
+trinitylist = os.listdir(trinitypath)
 
-parsing(katafile, kata_trinityfile)
-# parsing(gvisorfile, gvisor_trinityfile)
+for f, t in zip(ftracelist,trinitylist):
+    parsing(f,t)

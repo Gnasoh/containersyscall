@@ -1,0 +1,6 @@
+            pool-640749  [003] ..... 712978.918374: sys_futex -> 0x0
+            pool-640749  [003] ..... 712978.918380: sys_close(fd: 30ba)
+            pool-640749  [003] ..... 712978.918381: sys_close -> 0x0
+            pool-640749  [003] ..... 712978.918420: sys_write(fd: e, buf: 7f1c5b7fda28, count: 8)
+            pool-640749  [003] ..... 712978.918424: sys_write -> 0x8
+            pool-640749  [003] ..... 712978.918425: sys_futex(uaddr: 7f1c5c000bd0, op: 80, val: 4a4a, utime: 7f1c5b7fdc40, uaddr2: ae113, val3: ae113)

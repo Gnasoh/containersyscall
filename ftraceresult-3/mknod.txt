@@ -1,0 +1,1424 @@
+            pool-607117  [001] ..... 711785.092504: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.092508: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.092525: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.092528: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.092529: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.092542: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 13b, pos_h: 0)
+            pool-607117  [001] ..... 711785.092619: sys_pwritev -> 0x48
+            pool-607117  [001] ..... 711785.092624: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.092639: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.092642: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.092659: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.092660: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.092661: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.092668: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e158, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.093253: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093255: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.093268: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093270: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.093271: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093278: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 183, pos_h: 0)
+            pool-607117  [001] ..... 711785.093301: sys_pwritev -> 0x49
+            pool-607117  [001] ..... 711785.093304: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.093316: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093319: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.093333: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.093334: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.093335: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093339: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e159, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.093699: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093701: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.093721: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093724: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.093724: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093731: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 1cc, pos_h: 0)
+            pool-607117  [001] ..... 711785.093751: sys_pwritev -> 0x55
+            pool-607117  [001] ..... 711785.093754: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.093766: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093769: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.093783: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.093784: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.093785: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.093790: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.094600: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.094602: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.094620: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.094623: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.094624: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.094632: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 221, pos_h: 0)
+            pool-607117  [001] ..... 711785.094662: sys_pwritev -> 0x48
+            pool-607117  [001] ..... 711785.094666: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.094684: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.094687: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.094702: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.094704: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.094705: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.094710: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.095138: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095139: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.095161: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095163: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.095164: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095170: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 269, pos_h: 0)
+            pool-607117  [001] ..... 711785.095190: sys_pwritev -> 0x49
+            pool-607117  [001] ..... 711785.095193: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.095206: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095208: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.095226: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.095227: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.095228: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095233: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.095784: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095785: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.095798: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095800: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.095801: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095805: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 2b2, pos_h: 0)
+            pool-607117  [001] ..... 711785.095823: sys_pwritev -> 0x55
+            pool-607117  [001] ..... 711785.095825: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.095837: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095839: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.095853: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.095854: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.095855: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.095859: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.096414: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.096416: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.096428: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.096430: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.096431: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.096435: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 307, pos_h: 0)
+            pool-607117  [001] ..... 711785.096463: sys_pwritev -> 0x48
+            pool-607117  [001] ..... 711785.096466: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.096478: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.096480: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.096494: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.096495: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.096496: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.096500: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.097442: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097443: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.097455: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097458: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.097458: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097465: sys_pwritev(fd: 30a6, vec: 7f1c4c22b690, vlen: 2, pos_l: 34f, pos_h: 0)
+            pool-607117  [001] ..... 711785.097485: sys_pwritev -> 0x49
+            pool-607117  [001] ..... 711785.097487: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.097499: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097501: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.097514: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.097516: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.097517: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097522: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e15f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.097920: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097921: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.097934: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097935: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.097936: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097944: sys_preadv(fd: 30a1, vec: 7f1c4c22b6a0, vlen: 2, pos_l: 85000, pos_h: 0)
+            pool-607117  [001] ..... 711785.097958: sys_preadv -> 0x2000
+            pool-607117  [001] ..... 711785.097959: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 0)
+            pool-607117  [001] ..... 711785.097971: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097973: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [001] ..... 711785.097983: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.097984: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.097985: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.097989: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e160, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.098365: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098366: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 2d)
+            pool-607117  [001] ..... 711785.098379: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098380: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.098381: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098386: sys_pwritev(fd: 30a6, vec: 7f1c4c103480, vlen: 2, pos_l: 398, pos_h: 0)
+            pool-607117  [001] ..... 711785.098401: sys_pwritev -> 0x42
+            pool-607117  [001] ..... 711785.098404: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.098416: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098418: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.098432: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.098433: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.098434: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098438: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e161, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.098603: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098605: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.098617: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098619: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.098620: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098624: sys_pwritev(fd: 30a6, vec: 7f1c4c103480, vlen: 2, pos_l: 3da, pos_h: 0)
+            pool-607117  [001] ..... 711785.098638: sys_pwritev -> 0x22
+            pool-607117  [001] ..... 711785.098641: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.098653: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098655: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.098658: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.098659: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.098660: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.098664: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e162, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.099192: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099193: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.099206: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099208: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.099208: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099213: sys_pwritev(fd: 30a6, vec: 7f1c4c103480, vlen: 2, pos_l: 3fc, pos_h: 0)
+            pool-607117  [001] ..... 711785.099228: sys_pwritev -> 0x22
+            pool-607117  [001] ..... 711785.099230: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.099251: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099253: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.099267: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.099268: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.099269: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099273: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e163, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [001] ..... 711785.099403: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099404: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 30ab)
+            pool-607117  [001] ..... 711785.099416: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099418: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [001] ..... 711785.099419: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099423: sys_pwritev(fd: 30a6, vec: 7f1c4c103480, vlen: 2, pos_l: 41e, pos_h: 0)
+            pool-607117  [001] ..... 711785.099436: sys_pwritev -> 0x22
+            pool-607117  [001] ..... 711785.099438: sys_futex(uaddr: 555556eafbf8, op: 80, val: 2, utime: 0, uaddr2: 0, val3: 18)
+            pool-607117  [001] ..... 711785.099450: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099452: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [001] ..... 711785.099464: sys_write -> 0x8
+            pool-607117  [001] ..... 711785.099465: sys_futex(uaddr: 555556eafbf8, op: 81, val: 1, utime: 0, uaddr2: 0, val3: 80)
+            pool-607117  [001] ..... 711785.099465: sys_futex -> 0x0
+            pool-607117  [001] ..... 711785.099469: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65e164, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.569991: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.569994: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.569998: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570000: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570005: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570007: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaef, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570188: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570192: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570197: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570199: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570205: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570207: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf0, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570315: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570318: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570321: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570324: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570329: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570330: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf1, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570433: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570436: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570440: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570442: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570447: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570449: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf2, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570548: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570551: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570555: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570557: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570562: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570563: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf3, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570666: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570669: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570672: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570674: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570679: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570680: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf4, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570781: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570784: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570788: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570790: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570795: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570797: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf5, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.570899: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.570902: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.570905: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.570907: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.570912: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.570913: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf6, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571019: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571022: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571025: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571028: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571033: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571035: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf7, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571141: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571145: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571149: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571151: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571156: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571158: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf8, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571264: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571267: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571272: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571274: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571279: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571281: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaf9, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571386: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571389: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571393: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571395: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571400: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571402: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eafa, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571507: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571510: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571514: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571516: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571522: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571532: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eafb, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571641: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571644: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571647: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571650: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571655: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571656: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eafc, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571761: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571764: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571767: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571769: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571774: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571776: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eafd, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.571885: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.571888: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.571892: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.571894: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.571900: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.571901: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eafe, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572009: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572012: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572018: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572020: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572025: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572027: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eaff, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572134: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572137: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572140: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572143: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572148: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572149: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb00, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572252: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572255: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572259: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572261: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572267: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572269: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb01, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572375: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572378: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572382: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572384: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572389: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572391: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb02, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572498: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572501: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572505: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572507: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572513: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572514: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb03, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572636: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572639: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572643: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572645: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572651: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572653: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb04, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572763: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572766: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572771: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572773: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572779: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572780: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb05, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.572886: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.572888: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.572892: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.572894: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.572899: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.572900: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb06, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573008: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573011: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573015: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573018: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573023: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573025: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb07, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573171: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573174: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573178: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573181: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573186: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573188: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb08, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573303: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573306: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573310: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573313: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573318: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573320: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb09, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573430: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573433: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573438: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573440: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573446: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573447: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573559: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573562: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573566: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573568: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573573: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573575: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573689: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573692: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573696: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573698: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573703: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573705: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573817: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573820: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573825: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573827: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573832: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573834: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.573944: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.573946: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.573951: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.573953: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.573958: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.573960: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574080: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574083: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.574087: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.574089: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.574094: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574096: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb0f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574223: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574226: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.574230: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.574232: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.574238: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574239: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb10, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574347: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574350: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.574355: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.574357: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.574363: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574364: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb11, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574510: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574515: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.574518: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.574521: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.574527: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574529: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb12, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574660: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574670: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.574688: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.574690: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.574698: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574699: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb13, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574827: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574831: sys_newfstatat(dfd: 2ba2, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.574835: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.574836: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.574842: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574844: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb14, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.574953: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.574956: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.574957: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.574958: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.574959: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.574960: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.574965: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.574967: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb15, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575080: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575084: sys_preadv(fd: 30a8, vec: 7f1c4c22b6a0, vlen: 3, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.575093: sys_preadv -> 0x27d3
+            pool-607117  [000] ..... 711785.575094: sys_preadv(fd: 30a8, vec: 7f1c4c22b6c0, vlen: 1, pos_l: 27d3, pos_h: 0)
+            pool-607117  [000] ..... 711785.575095: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.575096: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.575101: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575103: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb16, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575214: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575218: sys_readlinkat(dfd: 34, pathname: 7f1ce9d51cb9, buf: 7f1c5b7fcac0, bufsiz: 1001)
+            pool-607117  [000] ..... 711785.575222: sys_readlinkat -> 0x7
+            pool-607117  [000] ..... 711785.575223: sys_write(fd: a, buf: 7f1c5b7fc7f8, count: 8)
+            pool-607117  [000] ..... 711785.575228: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575230: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb17, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575334: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575338: sys_openat(dfd: 36, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.575343: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.575346: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.575351: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575352: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb18, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575460: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575464: sys_openat(dfd: 36, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.575467: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.575469: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.575474: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575476: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb19, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575598: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575601: sys_readlinkat(dfd: 34, pathname: 7f1ce9d51cb9, buf: 7f1c5b7fcac0, bufsiz: 1001)
+            pool-607117  [000] ..... 711785.575604: sys_readlinkat -> 0x7
+            pool-607117  [000] ..... 711785.575606: sys_write(fd: a, buf: 7f1c5b7fc7f8, count: 8)
+            pool-607117  [000] ..... 711785.575611: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575613: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575718: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575721: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.575725: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.575728: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.575733: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575734: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575844: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575848: sys_openat(dfd: 35, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.575851: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.575854: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.575859: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575861: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.575977: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.575981: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.575983: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.575986: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.575991: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.575993: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576107: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576110: sys_openat(dfd: 1d, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.576115: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.576116: sys_newfstatat(dfd: 30a8, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fda10, flag: 1100)
+            pool-607117  [000] ..... 711785.576119: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.576121: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.576121: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.576124: sys_write(fd: a, buf: 7f1c5b7fd688, count: 8)
+            pool-607117  [000] ..... 711785.576129: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576131: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576234: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576241: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.576253: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.576254: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.576260: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576261: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb1f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576400: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576405: sys_preadv(fd: 30a8, vec: 7f1c4c10c7d0, vlen: 4, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.576413: sys_preadv -> 0x320d
+            pool-607117  [000] ..... 711785.576413: sys_preadv(fd: 30a8, vec: 7f1c4c10c800, vlen: 1, pos_l: 320d, pos_h: 0)
+            pool-607117  [000] ..... 711785.576414: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.576415: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.576421: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576423: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb20, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576545: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576549: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.576550: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.576550: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.576551: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.576552: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.576558: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576560: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb21, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576676: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576679: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.576680: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.576683: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.576689: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576691: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb22, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.576834: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.576839: sys_preadv(fd: 30b0, vec: 7f1c6000f810, vlen: d, pos_l: fd000, pos_h: 0)
+            pool-607117  [000] ..... 711785.576860: sys_preadv -> 0xd000
+            pool-607117  [000] ..... 711785.576862: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.576867: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.576870: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb23, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.577450: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.577455: sys_preadv(fd: 309f, vec: 7f1c6000f810, vlen: d, pos_l: 9b000, pos_h: 0)
+            pool-607117  [000] ..... 711785.577476: sys_preadv -> 0xd000
+            pool-607117  [000] ..... 711785.577478: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.577484: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.577488: sys_preadv(fd: 30aa, vec: 7f1c600042f0, vlen: 8, pos_l: 2f6000, pos_h: 0)
+            pool-607117  [000] ..... 711785.577501: sys_preadv -> 0x8000
+            pool-607117  [000] ..... 711785.577503: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb25, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.577707: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.577711: sys_preadv(fd: 30b0, vec: 7f1c60010b60, vlen: 20, pos_l: 1e9000, pos_h: 0)
+            pool-607117  [000] ..... 711785.577754: sys_preadv -> 0x20000
+            pool-607117  [000] ..... 711785.577755: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.577764: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.577770: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.577784: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.577787: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb27, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.577914: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.577918: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.577922: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.577923: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.577929: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.577931: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb28, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578056: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578060: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.578064: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.578064: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.578065: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.578066: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.578068: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578070: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb29, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578211: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578215: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.578216: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.578216: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.578217: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.578218: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.578224: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578226: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578331: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578334: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.578335: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.578338: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.578344: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578345: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578477: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578484: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.578497: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.578498: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.578504: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578506: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578620: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578624: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.578627: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.578629: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.578634: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578636: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578748: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578752: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.578755: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.578756: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.578757: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.578758: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.578763: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578765: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578871: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578874: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.578875: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.578875: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.578876: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.578877: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.578883: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578885: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb2f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.578984: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.578987: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.578988: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.578991: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.578996: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.578998: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb30, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.579478: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.579485: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.579496: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.579498: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.579505: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.579507: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb31, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.579642: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.579646: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.579651: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.579652: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.579658: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.579660: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb32, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.579768: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.579772: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.579775: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.579776: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.579777: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.579778: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.579783: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.579785: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb33, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.579906: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.579910: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.579911: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.579911: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.579912: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.579913: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.579918: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.579920: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb34, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580021: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580024: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.580025: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.580029: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.580034: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580036: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb35, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580155: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580159: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580167: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580171: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580176: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580178: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb36, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580294: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580298: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580303: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580306: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580311: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580313: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb37, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580429: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580433: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580437: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580439: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580445: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580446: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb38, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580564: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580567: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580583: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580586: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580591: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580593: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb39, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580712: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580715: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580720: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580722: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580728: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580729: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580844: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580847: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.580852: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.580854: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.580859: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.580861: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.580986: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.580992: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.581004: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.581006: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.581011: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581013: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581130: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581133: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.581136: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.581138: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.581143: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581145: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581259: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581262: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.581266: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.581267: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.581267: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.581268: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.581274: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581275: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581386: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581389: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.581390: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.581390: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.581392: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.581393: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.581398: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581400: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb3f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581505: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581508: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.581509: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.581511: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.581517: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581518: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb40, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581639: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581643: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.581650: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.581652: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.581658: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581660: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb41, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581776: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581779: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.581783: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.581786: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.581791: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581793: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb42, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.581908: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.581911: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.581916: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.581918: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.581923: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.581925: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb43, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582041: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582044: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.582049: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.582051: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.582053: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582055: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb44, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582206: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582210: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.582216: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.582218: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.582224: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582226: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb45, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582337: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582340: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.582344: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.582347: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.582352: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582354: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb46, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582473: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582478: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.582488: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.582490: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.582496: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582498: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb47, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582608: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582611: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.582614: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.582616: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.582621: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582623: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb48, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582731: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582735: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.582739: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.582739: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.582740: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.582741: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.582746: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582748: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb49, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582851: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582854: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.582855: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.582856: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.582856: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.582857: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.582862: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582864: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.582958: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.582961: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.582962: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.582965: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.582970: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.582971: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583087: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583091: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583097: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583100: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583106: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583107: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583235: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583239: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583244: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583246: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583252: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583253: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583361: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583365: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583369: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583371: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583376: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583378: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583492: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583496: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583501: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583503: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583509: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583511: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb4f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583635: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583638: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583643: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583645: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583650: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583652: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb50, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583764: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583768: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.583772: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.583775: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.583780: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583782: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb51, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.583906: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.583912: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.583922: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.583924: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.583930: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.583932: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb52, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584046: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584050: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.584053: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.584054: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.584060: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584062: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb53, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584176: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584180: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.584183: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.584184: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.584185: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.584185: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.584191: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584193: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb54, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584303: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584306: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.584307: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.584307: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.584308: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.584309: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.584314: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584316: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb55, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584417: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584420: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.584421: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.584423: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.584428: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584430: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb56, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584524: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584527: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584533: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584536: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584542: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584543: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb57, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584626: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584629: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584634: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584636: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584642: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584643: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb58, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584710: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584713: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584717: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584719: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584724: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584726: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb59, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584794: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584797: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584801: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584803: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584808: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584810: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584875: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584878: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584883: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584885: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584890: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584892: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.584954: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.584957: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.584961: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.584963: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.584967: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.584969: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585040: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585045: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.585056: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.585058: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.585063: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585065: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585121: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585124: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.585127: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.585128: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.585130: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585132: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585201: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585204: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.585207: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.585208: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.585209: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.585209: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.585214: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585216: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb5f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585280: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585283: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.585284: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.585285: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.585285: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.585286: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.585288: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585290: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb60, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585409: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585412: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.585413: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.585416: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.585418: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585419: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb61, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585501: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585505: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585511: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585514: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585519: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585521: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb62, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585606: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585609: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585613: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585616: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585621: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585622: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb63, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585690: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585693: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585697: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585700: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585704: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585706: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb64, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585788: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585791: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585795: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585798: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585802: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585804: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb65, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585872: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585875: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585879: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585882: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585887: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585888: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb66, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.585952: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.585954: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.585959: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.585961: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.585966: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.585967: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb67, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586063: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586069: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.586079: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.586081: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.586086: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586088: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb68, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586213: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586216: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.586219: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.586220: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.586222: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586224: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb69, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586293: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586297: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.586300: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.586301: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.586301: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.586302: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.586307: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586308: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586366: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586369: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.586370: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.586370: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.586371: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.586372: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.586374: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586375: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586431: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586434: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.586435: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.586437: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.586438: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586440: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586511: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586514: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586519: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586522: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586526: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586528: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586603: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586606: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586610: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586613: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586617: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586619: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586681: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586684: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586688: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586690: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586695: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586697: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb6f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586765: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586768: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586772: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586774: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586779: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586781: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb70, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586842: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586845: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586849: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586852: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586856: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586858: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb71, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.586919: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.586921: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.586925: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.586927: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.586929: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.586930: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb72, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587006: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587011: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.587021: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.587022: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.587028: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587029: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb73, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587087: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587090: sys_newfstatat(dfd: 2b, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.587093: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.587095: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.587096: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587098: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb74, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587165: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587168: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.587171: sys_preadv -> 0x39a
+            pool-607117  [000] ..... 711785.587171: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 39a, pos_h: 0)
+            pool-607117  [000] ..... 711785.587172: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.587173: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.587178: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587180: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb75, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587261: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587263: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.587264: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.587264: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.587265: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.587266: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.587268: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587269: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb76, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587329: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587331: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.587332: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.587334: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.587336: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587337: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb77, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587414: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587417: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587422: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587425: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587430: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587431: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb78, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587495: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587498: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587502: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587504: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587509: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587511: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb79, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587585: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587588: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587592: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587594: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587604: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587606: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587669: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587672: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587676: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587679: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587683: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587685: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587752: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587755: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587759: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587761: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587766: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587767: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.587833: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.587836: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.587840: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.587842: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.587847: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.587848: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.595027: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.595035: sys_preadv(fd: 30b0, vec: 7f1c54074f10, vlen: 5, pos_l: 6a000, pos_h: 0)
+            pool-607117  [000] ..... 711785.595047: sys_preadv -> 0x5000
+            pool-607117  [000] ..... 711785.595049: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.595055: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.595058: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.595255: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.595261: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.595268: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.595269: sys_newfstatat(dfd: 30a8, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fda10, flag: 1100)
+            pool-607117  [000] ..... 711785.595271: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.595274: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.595274: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.595277: sys_write(fd: a, buf: 7f1c5b7fd688, count: 8)
+            pool-607117  [000] ..... 711785.595282: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.595284: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb7f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.595358: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.595365: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.595377: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.595379: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.595384: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.595385: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb80, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.595471: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.595475: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.595479: sys_preadv -> 0x16c
+            pool-607117  [000] ..... 711785.595479: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 16c, pos_h: 0)
+            pool-607117  [000] ..... 711785.595480: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.595481: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.595483: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.595484: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb81, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.595687: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.595692: sys_preadv(fd: 30aa, vec: 7f1c60010b60, vlen: 20, pos_l: 12c000, pos_h: 0)
+            pool-607117  [000] ..... 711785.595736: sys_preadv -> 0x20000
+            pool-607117  [000] ..... 711785.595738: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.595744: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.595746: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb82, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.596053: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596054: sys_futex(uaddr: 7f1c60000bc0, op: 80, val: 2, utime: 0, uaddr2: adc6a, val3: 22a)
+            pool-607117  [000] ..... 711785.596068: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596070: sys_futex(uaddr: 7f1c60000bc0, op: 81, val: 1, utime: 0, uaddr2: 1, val3: 7f1c60005360)
+            pool-607117  [000] ..... 711785.596070: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596074: sys_preadv(fd: 30aa, vec: 7f1c4c104630, vlen: f, pos_l: 14c000, pos_h: 0)
+            pool-607117  [000] ..... 711785.596097: sys_preadv -> 0xf000
+            pool-607117  [000] ..... 711785.596099: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.596105: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.596107: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb83, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.596226: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596230: sys_preadv(fd: 30aa, vec: 7f1c4c10c7d0, vlen: 4, pos_l: 106000, pos_h: 0)
+            pool-607117  [000] ..... 711785.596238: sys_preadv -> 0x4000
+            pool-607117  [000] ..... 711785.596239: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.596241: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.596243: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb84, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.596371: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596374: sys_preadv(fd: 30aa, vec: 7f1c4c10c7d0, vlen: 4, pos_l: 32e000, pos_h: 0)
+            pool-607117  [000] ..... 711785.596382: sys_preadv -> 0x4000
+            pool-607117  [000] ..... 711785.596383: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.596385: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.596387: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb85, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.596491: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596494: sys_preadv(fd: 30aa, vec: 7f1c4c102990, vlen: 11, pos_l: 2b1000, pos_h: 0)
+            pool-607117  [000] ..... 711785.596519: sys_preadv -> 0x11000
+            pool-607117  [000] ..... 711785.596520: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.596526: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.596528: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb86, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.596918: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.596924: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.596925: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.596925: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.596926: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.596928: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.596930: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.596932: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb87, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.597017: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.597020: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.597021: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.597024: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.597026: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.597027: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb88, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.597120: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.597123: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.597129: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.597132: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.597134: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.597135: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb89, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.597231: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.597235: sys_openat(dfd: 10f3, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.597240: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.597243: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.597244: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.597246: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.597337: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.597341: sys_openat(dfd: 10f3, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.597346: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.597348: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.597350: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.597351: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.625291: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.625309: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [000] ..... 711785.625334: sys_openat -> 0x30a8
+            pool-607117  [000] ..... 711785.625338: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [000] ..... 711785.625345: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.625348: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.625515: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.625520: sys_newfstatat(dfd: 30a4, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [000] ..... 711785.625524: sys_newfstatat -> 0x0
+            pool-607117  [000] ..... 711785.625525: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [000] ..... 711785.625530: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.625532: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.625607: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.625611: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [000] ..... 711785.625617: sys_preadv -> 0x16c
+            pool-607117  [000] ..... 711785.625618: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 16c, pos_h: 0)
+            pool-607117  [000] ..... 711785.625619: sys_preadv -> 0x0
+            pool-607117  [000] ..... 711785.625620: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [000] ..... 711785.625624: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.625625: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.625948: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.625952: sys_dup(fildes: 30a8)
+            pool-607117  [000] ..... 711785.625954: sys_dup -> 0x30b9
+            pool-607117  [000] ..... 711785.625954: sys_close(fd: 30b9)
+            pool-607117  [000] ..... 711785.625956: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.625957: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [000] ..... 711785.625962: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.625964: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb8f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.626026: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.626029: sys_close(fd: 30a8)
+            pool-607117  [000] ..... 711785.626030: sys_close -> 0x0
+            pool-607117  [000] ..... 711785.626034: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [000] ..... 711785.626036: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.626037: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb90, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.626170: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.626174: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.626181: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.626185: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.626191: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.626193: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb91, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.626264: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.626268: sys_openat(dfd: 10f3, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.626272: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.626274: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.626279: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.626281: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb92, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.626346: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.626349: sys_openat(dfd: 10f3, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.626353: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.626355: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.626360: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.626362: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb93, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.689050: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.689074: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.689097: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.689111: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.689130: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.689138: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb94, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.689409: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.689419: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.689433: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.689441: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.689458: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.689463: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb95, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.689704: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.689714: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.689727: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.689734: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.689750: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.689756: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb96, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.689973: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.689982: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.689994: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.690002: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.690008: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.690012: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb97, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.690430: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.690440: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.690455: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.690463: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.690480: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.690485: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb98, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.690713: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.690724: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.690737: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.690745: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.690761: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.690766: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb99, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [000] ..... 711785.690985: sys_futex -> 0x0
+            pool-607117  [000] ..... 711785.690995: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [000] ..... 711785.691007: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [000] ..... 711785.691014: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [000] ..... 711785.691019: sys_write -> 0x8
+            pool-607117  [000] ..... 711785.691024: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9a, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.928524: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.928625: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [002] ..... 711785.928676: sys_openat -> 0x30a8
+            pool-607117  [002] ..... 711785.928685: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [002] ..... 711785.928698: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.928705: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9b, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.929311: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.929334: sys_newfstatat(dfd: 30a4, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [002] ..... 711785.929345: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.929349: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [002] ..... 711785.929358: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.929363: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9c, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.929926: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.929949: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [002] ..... 711785.929962: sys_preadv -> 0x16c
+            pool-607117  [002] ..... 711785.929963: sys_preadv(fd: 30a8, vec: 7f1c4c235cd0, vlen: 1, pos_l: 16c, pos_h: 0)
+            pool-607117  [002] ..... 711785.929965: sys_preadv -> 0x0
+            pool-607117  [002] ..... 711785.929968: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [002] ..... 711785.929977: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.929982: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9d, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.930996: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.931021: sys_dup(fildes: 30a8)
+            pool-607117  [002] ..... 711785.931024: sys_dup -> 0x30b9
+            pool-607117  [002] ..... 711785.931025: sys_close(fd: 30b9)
+            pool-607117  [002] ..... 711785.931028: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.931031: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [002] ..... 711785.931037: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.931042: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9e, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.931561: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.931580: sys_close(fd: 30a8)
+            pool-607117  [002] ..... 711785.931583: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.931594: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [002] ..... 711785.931597: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.931602: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eb9f, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.932077: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.932098: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [002] ..... 711785.932113: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [002] ..... 711785.932123: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [002] ..... 711785.932127: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.932131: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba0, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.945693: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.945737: sys_newfstatat(dfd: 30a4, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [002] ..... 711785.945757: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.945764: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [002] ..... 711785.945773: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.945780: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba1, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.946932: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.946947: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [002] ..... 711785.947014: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [002] ..... 711785.947025: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [002] ..... 711785.947037: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.947042: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba2, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.947451: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.947459: sys_geteuid()
+            pool-607117  [002] ..... 711785.947461: sys_geteuid -> 0x0
+            pool-607117  [002] ..... 711785.947461: sys_getegid()
+            pool-607117  [002] ..... 711785.947462: sys_getegid -> 0x0
+            pool-607117  [002] ..... 711785.947463: sys_setresgid(rgid: ffffffff, egid: 0, sgid: ffffffff)
+            pool-607117  [002] ..... 711785.947471: sys_setresgid -> 0x0
+            pool-607117  [002] ..... 711785.947472: sys_setresuid(ruid: ffffffff, euid: 0, suid: ffffffff)
+            pool-607117  [002] ..... 711785.947477: sys_setresuid -> 0x0
+            pool-607117  [002] ..... 711785.947479: sys_openat(dfd: 307a, filename: 7f1c4c000908, flags: 80c2, mode: 8180)
+            pool-607117  [002] ..... 711785.947601: sys_openat -> 0x30a8
+            pool-607117  [002] ..... 711785.947603: sys_setresuid(ruid: ffffffff, euid: 0, suid: ffffffff)
+            pool-607117  [002] ..... 711785.947606: sys_setresuid -> 0x0
+            pool-607117  [002] ..... 711785.947606: sys_setresgid(rgid: ffffffff, egid: 0, sgid: ffffffff)
+            pool-607117  [002] ..... 711785.947608: sys_setresgid -> 0x0
+            pool-607117  [002] ..... 711785.947610: sys_openat(dfd: 307a, filename: 7f1c4c000908, flags: 220000, mode: 0)
+            pool-607117  [002] ..... 711785.947615: sys_openat -> 0x30b9
+            pool-607117  [002] ..... 711785.947617: sys_newfstatat(dfd: 30b9, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9a0, flag: 1100)
+            pool-607117  [002] ..... 711785.947623: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.947633: sys_write(fd: a, buf: 7f1c5b7fd5d8, count: 8)
+            pool-607117  [002] ..... 711785.947638: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.947643: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba3, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.947897: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.947904: sys_newfstatat(dfd: 307a, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [002] ..... 711785.947910: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.947913: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [002] ..... 711785.947917: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.947921: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba4, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.948170: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.948185: sys_openat(dfd: 3, filename: 7f1c5c001fb0, flags: 8000, mode: 0)
+            pool-607117  [002] ..... 711785.948212: sys_openat -> 0x30ba
+            pool-607117  [002] ..... 711785.948216: sys_write(fd: a, buf: 7f1c5b7fd768, count: 8)
+            pool-607117  [002] ..... 711785.948219: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.948222: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba5, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.948514: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.948521: sys_preadv(fd: 30ba, vec: 7f1c4c235cd0, vlen: 1, pos_l: 0, pos_h: 0)
+            pool-607117  [002] ..... 711785.948532: sys_preadv -> 0x16c
+            pool-607117  [002] ..... 711785.948533: sys_preadv(fd: 30ba, vec: 7f1c4c235cd0, vlen: 1, pos_l: 16c, pos_h: 0)
+            pool-607117  [002] ..... 711785.948535: sys_preadv -> 0x0
+            pool-607117  [002] ..... 711785.948537: sys_write(fd: a, buf: 7f1c5b7fd758, count: 8)
+            pool-607117  [002] ..... 711785.948540: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.948544: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba6, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.949381: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.949388: sys_dup(fildes: 30ba)
+            pool-607117  [002] ..... 711785.949390: sys_dup -> 0x30bc
+            pool-607117  [002] ..... 711785.949391: sys_close(fd: 30bc)
+            pool-607117  [002] ..... 711785.949394: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.949396: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [002] ..... 711785.949401: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.949406: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba7, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.949603: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.949608: sys_close(fd: 30ba)
+            pool-607117  [002] ..... 711785.949610: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.949618: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [002] ..... 711785.949621: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.949625: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba8, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.949832: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.949840: sys_pwritev(fd: 30a8, vec: 7f1c4c1e6960, vlen: 2, pos_l: 0, pos_h: 0)
+            pool-607117  [002] ..... 711785.949902: sys_pwritev -> 0x16c
+            pool-607117  [002] ..... 711785.949906: sys_write(fd: a, buf: 7f1c5b7fd778, count: 8)
+            pool-607117  [002] ..... 711785.949910: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.949914: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65eba9, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.950110: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.950115: sys_dup(fildes: 30a8)
+            pool-607117  [002] ..... 711785.950117: sys_dup -> 0x30ba
+            pool-607117  [002] ..... 711785.950117: sys_close(fd: 30ba)
+            pool-607117  [002] ..... 711785.950119: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.950122: sys_write(fd: a, buf: 7f1c5b7fd798, count: 8)
+            pool-607117  [002] ..... 711785.950125: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.950128: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65ebaa, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.950436: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.950441: sys_close(fd: 30a8)
+            pool-607117  [002] ..... 711785.950443: sys_close -> 0x0
+            pool-607117  [002] ..... 711785.950451: sys_write(fd: a, buf: 7f1c5b7fd7d8, count: 8)
+            pool-607117  [002] ..... 711785.950454: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.950457: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65ebab, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.950678: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.950685: sys_newfstatat(dfd: 307a, filename: 7f1c4c0008f8, statbuf: 7f1c5b7fd9e0, flag: 100)
+            pool-607117  [002] ..... 711785.950697: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.950701: sys_unlinkat(dfd: 307a, pathname: 7f1c4c0008f8, flag: 0)
+            pool-607117  [002] ..... 711785.950739: sys_unlinkat -> 0x0
+            pool-607117  [002] ..... 711785.950742: sys_write(fd: a, buf: 7f1c5b7fd7e8, count: 8)
+            pool-607117  [002] ..... 711785.950746: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.950750: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65ebac, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607286  [000] ..... 711785.950933: sys_futex -> 0x0
+            pool-607286  [000] ..... 711785.950947: sys_close(fd: 30b9)
+            pool-607286  [000] ..... 711785.950948: sys_close -> 0x0
+            pool-607286  [000] ..... 711785.950992: sys_write(fd: e, buf: 7f1c5bffea28, count: 8)
+            pool-607286  [000] ..... 711785.950998: sys_write -> 0x8
+            pool-607286  [000] ..... 711785.951001: sys_futex(uaddr: 7f1c5c000bd0, op: 80, val: 3b98, utime: 7f1c5bffec40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.951037: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.951044: sys_newfstatat(dfd: 307a, filename: 7f1ce9d51cb9, statbuf: 7f1c5b7fd9e0, flag: 1100)
+            pool-607117  [002] ..... 711785.951051: sys_newfstatat -> 0x0
+            pool-607117  [002] ..... 711785.951054: sys_write(fd: a, buf: 7f1c5b7fd668, count: 8)
+            pool-607117  [002] ..... 711785.951058: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.951061: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65ebad, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
+            pool-607117  [002] ..... 711785.951245: sys_futex -> 0x0
+            pool-607117  [002] ..... 711785.951251: sys_openat(dfd: 307a, filename: 7f1c4c0008f8, flags: 220000, mode: 0)
+            pool-607117  [002] ..... 711785.951260: sys_openat -> 0xfffffffffffffffe
+            pool-607117  [002] ..... 711785.951268: sys_write(fd: a, buf: 7f1c5b7fd738, count: 8)
+            pool-607117  [002] ..... 711785.951271: sys_write -> 0x8
+            pool-607117  [002] ..... 711785.951274: sys_futex(uaddr: 7f1c60000bd0, op: 80, val: 65ebae, utime: 7f1c5b7fdc40, uaddr2: adc6a, val3: adc6a)
