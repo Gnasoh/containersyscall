@@ -1,0 +1,10 @@
+inotify_init() = 411
+inotify_init() = 414
+inotify_init() = 412
+inotify_init() = 415
+inotify_init() = 412
+inotify_init() = 415
+inotify_init() = 412
+inotify_init() = 415
+inotify_init() = 412
+inotify_init() = 415

@@ -1,0 +1,10 @@
+getppid() = 0x6e70
+getppid() = 0x6e70
+getppid() = 0x3b80
+getppid() = 0x3b80
+getppid() = 0x55ee
+getppid() = 0x55ee
+getppid() = 0x67d4
+getppid() = 0x67d4
+getppid() = 0x3553
+getppid() = 0x3553

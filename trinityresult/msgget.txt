@@ -1,0 +1,14 @@
+msgget(key=0x8c2c004c005a20, msgflg=64) = -1 (No such file or directory)
+msgget(key=0xff40, msgflg=177) = -1 (No such file or directory)
+msgget(key=0x124b28797124, msgflg=8) = -1 (No such file or directory)
+msgget(key=0xfff8, msgflg=0xffffffff) = 0
+msgget(key=0xffffffffffc00000, msgflg=1286) = -1 (No such file or directory)
+msgget(key=0, msgflg=0x200000) = 1
+msgget(key=244, msgflg=152) = -1 (No such file or directory)
+msgget(key=235, msgflg=-10) = 2
+msgget(key=0xcc9d742c98a4, msgflg=0x894f20b30e88) = 3
+msgget(key=-7, msgflg=0x80000000) = -1 (No such file or directory)
+msgget(key=0xfffe, msgflg=0x400000) = -1 (No such file or directory)
+msgget(key=8192, msgflg=0xffff0000) = -1 (No such file or directory)
+msgget(key=250, msgflg=0x1e1e1e1e) = 4
+msgget(key=0x20000000, msgflg=0x1a1a1a1a) = 5

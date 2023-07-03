@@ -1,0 +1,5 @@
+keyctl(cmd=0x0, arg2=744, arg3=0x4000000, arg4=0x4000000, arg5=-7480) = -1 (Function not implemented)
+keyctl(cmd=0x0, arg2=-9, arg3=0xffff70d89f182a68, arg4=0x67bb7fd2, arg5=2) = -1 (Function not implemented)
+keyctl(cmd=0x0, arg2=155, arg3=0x6f6f6f6f, arg4=256, arg5=0xfffffff8) = -1 (Function not implemented)
+keyctl(cmd=0x0, arg2=8, arg3=0x20000000, arg4=0xf000, arg5=64) = -1 (Function not implemented)
+keyctl(cmd=0x0, arg2=0xd3e47b03b9ae, arg3=-4, arg4=2056, arg5=0xff28) = -1 (Function not implemented)

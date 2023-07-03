@@ -1,0 +1,6 @@
+delete_module(name_user=0x7f60d61c9000, flags=0xffff) = -1 (Function not implemented)
+delete_module(name_user=0x7f1890553000, flags=0x86d7647ff43e0b) = -1 (Function not implemented)
+delete_module(name_user=0x7fa580db2000, flags=0xb6b6b6b6) = -1 (Function not implemented)
+delete_module(name_user=0x7fbe8327b000, flags=99) = -1 (Function not implemented)
+delete_module(name_user=0x7f83276e6000, flags=4096) = -1 (Function not implemented)
+delete_module(name_user=0x0, flags=0xffffffffffff0003) = -1 (Function not implemented)

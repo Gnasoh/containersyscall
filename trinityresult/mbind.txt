@@ -1,0 +1,4 @@
+mbind(start=0x7f0d9e9a1000, len=0x1f2000, mode=0x0, nmask=0x7f0d9eea1000, maxnode=0x8000, flags=0x0) = -1 (Function not implemented)
+mbind(start=0x7f08fbe56000, len=0, mode=0x0, nmask=0x0, maxnode=0x8000, flags=0x0) = -1 (Function not implemented)
+mbind(start=0x7f9f78cc3000, len=0, mode=0x0, nmask=0x0, maxnode=0x8000, flags=0x0) = -1 (Function not implemented)
+mbind(start=0x7f763c3a7000, len=0xcb000, mode=0x0, nmask=0x8, maxnode=0x8000, flags=0x0) = -1 (Function not implemented)

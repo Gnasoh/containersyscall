@@ -1,0 +1,10 @@
+listxattr(pathname="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0012:00/ndbus0/region0/pfn0.1/block/pmem0/pmem0p1/size", list=0x0, size=4096) = 0
+listxattr(pathname="/proc/27441/task/27441/net/sockstat6", list=0x7fc1789aa000, size=4) = 0
+listxattr(pathname="/sys/devices/virtual/block/ram5/queue/scheduler", list=0x1, size=4096) = 0
+listxattr(pathname="/sys/devices/system/clockevents/clockevent3", list=0x1, size=75) = 0
+listxattr(pathname="/sys/devices/virtual/bdi/1:12/min_ratio", list=0x0, size=3244) = 0
+listxattr(pathname=".//sys/devices/system/cpu/smt/control", list=0x0, size=0) = -1 (No such file or directory)
+listxattr(pathname="/sys/devices/virtual/block/ram9/queue/max_hw_sectors_kb", list=0x7fde7588b000, size=1232) = 0
+listxattr(pathname="/sys/devices/virtual/block/loop3/queue/discard_granularity", list=0x0, size=0x3ffffe) = 0
+listxattr(pathname="/proc/2/fdinfo/2", list=0x7fed26456000, size=4) = 0
+listxattr(pathname="/sys/kernel/slab/anon_vma", list=0x7fed26c56000, size=4) = 0

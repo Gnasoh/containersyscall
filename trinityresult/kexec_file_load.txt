@@ -1,0 +1,5 @@
+kexec_file_load(kernel_fd=27, initrd_fd=290, cmdline_len=0, cmdline_ptr=0x7fe99a1a4000, flags=0x563b23e4d) = -1 (Function not implemented)
+kexec_file_load(kernel_fd=16, initrd_fd=16, cmdline_len=256, cmdline_ptr=0x7f5be3027000, flags=0x5555ad5eb) = -1 (Function not implemented)
+kexec_file_load(kernel_fd=18, initrd_fd=18, cmdline_len=222, cmdline_ptr=0x0, flags=0x558813cff) = -1 (Function not implemented)
+kexec_file_load(kernel_fd=14, initrd_fd=25, cmdline_len=8, cmdline_ptr=0x0, flags=0x555af4b60) = -1 (Function not implemented)
+kexec_file_load(kernel_fd=286, initrd_fd=305, cmdline_len=4096, cmdline_ptr=0x8, flags=0x5602f7b59) = -1 (Function not implemented)

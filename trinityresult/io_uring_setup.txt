@@ -1,0 +1,29 @@
+io_uring_setup(entries=4096, params=0x7f8b2966b000) = 412
+io_uring_setup(entries=0x4d4d4d4d, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=0x8000, params=0x7f49b1a40000) = 412
+io_uring_setup(entries=2048, params=0x7f49b2145000) = 415
+io_uring_setup(entries=0x76767676, params=0x7f4868e54000) = -1 (Invalid argument)
+io_uring_setup(entries=-216, params=0x7f4868c54000) = -1 (Invalid argument)
+io_uring_setup(entries=0x410000f7, params=0x4) = -1 (Bad address)
+io_uring_setup(entries=0xd9d9d9d9, params=0x7f4868e54000) = -1 (Invalid argument)
+io_uring_setup(entries=872, params=0x7f4868c4f000) = 420
+io_uring_setup(entries=0x2000000, params=0x4) = -1 (Bad address)
+io_uring_setup(entries=0x81818181, params=0x0) = -1 (Bad address)
+io_uring_setup(entries=129, params=0x7f03b54fc000) = 414
+io_uring_setup(entries=4, params=0x7f03b54fe000) = 417
+io_uring_setup(entries=0x66c20a00d1222400, params=0x7f613d6d0000) = -1 (Invalid argument)
+io_uring_setup(entries=0xfff9, params=0x0) = -1 (Bad address)
+io_uring_setup(entries=2048, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=0xfffffffb, params=0x4) = -1 (Bad address)
+io_uring_setup(entries=256, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=134, params=0x0) = -1 (Bad address)
+io_uring_setup(entries=-2, params=0x7f613dcd0000) = -1 (Invalid argument)
+io_uring_setup(entries=0x302001004c8058, params=0x0) = -1 (Bad address)
+io_uring_setup(entries=-6, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=202, params=0x4) = -1 (Bad address)
+io_uring_setup(entries=-6, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=0x95959595, params=0x7f613f5d8000) = -1 (Invalid argument)
+io_uring_setup(entries=0x461ad3e618a5db64, params=0x0) = -1 (Bad address)
+io_uring_setup(entries=0, params=0x8) = -1 (Bad address)
+io_uring_setup(entries=71, params=0x7f613d4d0000) = 440
+io_uring_setup(entries=2, params=0x7f613d4d0000) = 443

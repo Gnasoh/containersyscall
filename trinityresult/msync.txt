@@ -1,0 +1,12 @@
+msync(start=0x7f945762c000, len=0, flags=0x1) = 0
+msync(start=0x7f945762c000, len=0, flags=0x6) = 0
+msync(start=0x7f9455521000, len=0, flags=0x0) = 0
+msync(start=0x7f63ebe5a000, len=0x5e000, flags=0x3) = 0
+msync(start=0x7f63edf62000, len=0, flags=0x6) = 0
+msync(start=0x7f63ebe58000, len=0, flags=0x0) = 0
+msync(start=0x7fe78f113000, len=0xa8000, flags=0x3) = 0
+msync(start=0x7fe78eb13000, len=0xd0000, flags=0x4) = 0
+msync(start=0x7fe790a1c000, len=0, flags=0x2) = 0
+msync(start=0x7fac88b0a000, len=0, flags=0x1) = 0
+msync(start=0x7fac87000000, len=0xa7000, flags=0x4) = 0
+msync(start=0x7fac87100000, len=0x2c000, flags=0x0) = 0

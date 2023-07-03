@@ -1,0 +1,5 @@
+finit_module(fd=285, uargs=0x7f9497438000, flags=0x0) = -1 (Function not implemented)
+finit_module(fd=291, uargs=0x0, flags=0x0) = -1 (Function not implemented)
+finit_module(fd=253, uargs=0x1, flags=0x0) = -1 (Function not implemented)
+finit_module(fd=27, uargs=0x7f86be1fe000, flags=0x0) = -1 (Function not implemented)
+finit_module(fd=289, uargs=0x7f9cce1a9000, flags=0x0) = -1 (Function not implemented)

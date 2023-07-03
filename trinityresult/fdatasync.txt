@@ -1,0 +1,53 @@
+fdatasync(fd=306) = -1 (Invalid argument)
+fdatasync(fd=306) = -1 (Invalid argument)
+fdatasync(fd=306) = -1 (Invalid argument)
+fdatasync(fd=386) = 0
+fdatasync(fd=386) = 0
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=333) = -1 (Invalid argument)
+fdatasync(fd=333) = -1 (Invalid argument)
+fdatasync(fd=9) = -1 (Invalid argument)
+fdatasync(fd=9) = -1 (Invalid argument)
+fdatasync(fd=15) = -1 (Invalid argument)
+fdatasync(fd=15) = -1 (Invalid argument)
+fdatasync(fd=15) = -1 (Invalid argument)
+fdatasync(fd=345) = -1 (Invalid argument)
+fdatasync(fd=345) = -1 (Invalid argument)
+fdatasync(fd=345) = -1 (Invalid argument)
+fdatasync(fd=8) = -1 (Invalid argument)
+fdatasync(fd=8) = -1 (Invalid argument)
+fdatasync(fd=25) = -1 (Invalid argument)
+fdatasync(fd=25) = -1 (Invalid argument)
+fdatasync(fd=392) = 0
+fdatasync(fd=392) = 0
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=27) = -1 (Invalid argument)
+fdatasync(fd=290) = 0
+fdatasync(fd=290) = 0
+fdatasync(fd=26) = -1 (Invalid argument)
+fdatasync(fd=26) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=7) = -1 (Invalid argument)
+fdatasync(fd=375) = -1 (Invalid argument)
+fdatasync(fd=375) = -1 (Invalid argument)
+fdatasync(fd=375) = -1 (Invalid argument)
+fdatasync(fd=375) = -1 (Invalid argument)
+fdatasync(fd=375) = -1 (Invalid argument)
+fdatasync(fd=386) = 0
+fdatasync(fd=386) = 0
+fdatasync(fd=25) = -1 (Invalid argument)
+fdatasync(fd=408) = -1 (Invalid argument)
+fdatasync(fd=408) = -1 (Invalid argument)
+fdatasync(fd=398) = 0
+fdatasync(fd=398) = 0

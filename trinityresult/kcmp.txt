@@ -1,0 +1,5 @@
+kcmp(pid1=1, pid2=1, type=0x0, idx1=0xa8a8a8a8, idx2=-6) = -1 (Function not implemented)
+kcmp(pid1=0, pid2=16800, type=0x0, idx1=0xd5d5d5d5, idx2=0x61524cfc3) = -1 (Function not implemented)
+kcmp(pid1=0, pid2=25501, type=0x0, idx1=0xf7f7f7f7, idx2=0) = -1 (Function not implemented)
+kcmp(pid1=1, pid2=28927, type=0x0, idx1=0xfffffff8, idx2=255) = -1 (Function not implemented)
+kcmp(pid1=1, pid2=29481, type=0x0, idx1=0x400000, idx2=0x800000) = -1 (Function not implemented)

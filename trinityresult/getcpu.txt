@@ -1,0 +1,11 @@
+getcpu(cpup=0x7fc8e454b000, nodep=0x7fc8e454b008, unused=0x7fc8e4550000) = 0
+getcpu(cpup=0x7fc8e665a000, nodep=0x7fc8e454b000, unused=0x7fc8e454b004) = 0
+getcpu(cpup=0x0, nodep=0x0, unused=0x8) = 0
+getcpu(cpup=0x0, nodep=0x7ff8596de000, unused=0x0) = 0
+getcpu(cpup=0x0, nodep=0x4, unused=0x7ff3b49a6000) = -1 (Bad address)
+getcpu(cpup=0x7ff3b2c9c000, nodep=0x7ff3b2c9c000, unused=0x0) = 0
+getcpu(cpup=0x7ff3b289c000, nodep=0x0, unused=0x7ff3b2a9c000) = 0
+getcpu(cpup=0x0, nodep=0x0, unused=0x1) = 0
+getcpu(cpup=0x7f991f4f7000, nodep=0x7f991f4f7001, unused=0x7f991f4fb000) = 0
+getcpu(cpup=0x7fa0d1ccb000, nodep=0x7fa0d1ccb000, unused=0x7fa0d1ccb000) = 0
+getcpu(cpup=0x7fa0d1ccb000, nodep=0x7fa0d22cd000, unused=0x7fa0d22cd000) = 0

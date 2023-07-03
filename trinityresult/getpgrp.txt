@@ -1,0 +1,10 @@
+getpgrp() = 0x6b31
+getpgrp() = 0x6b31
+getpgrp() = 0x6b31
+getpgrp() = 0x6b31
+getpgrp() = 0x6b31
+getpgrp() = 0x6b31
+getpgrp() = 0x6456
+getpgrp() = 0x6456
+getpgrp() = 2385
+getpgrp() = 2385

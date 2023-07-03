@@ -1,0 +1,24 @@
+getcwd(buf=0x7f2413d44000, size=2) = -1 (Numerical result out of range)
+getcwd(buf=0x7f2414446000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7f2413d46000, size=170) = 32
+getcwd(buf=0x7f2414346000, size=1) = -1 (Numerical result out of range)
+getcwd(buf=0x7f2e2e395000, size=-2) = 32
+getcwd(buf=0x0, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7fad2ee78000, size=0xe7677a) = 32
+getcwd(buf=0x7fad2f478000, size=8) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6c43000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6c43000, size=8) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6d43000, size=8) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6d43000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6943000, size=1) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6c43000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6743000, size=6) = -1 (Numerical result out of range)
+getcwd(buf=0x0, size=1025) = -1 (Bad address)
+getcwd(buf=0x7f1ab6d43000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x0, size=8) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6743000, size=0) = -1 (Numerical result out of range)
+getcwd(buf=0x7f1ab6743000, size=0x82800) = 32
+getcwd(buf=0x7f1ab6743000, size=4096) = 32
+getcwd(buf=0x7fc2e3edd000, size=4) = -1 (Numerical result out of range)
+getcwd(buf=0x7fc2e3edd000, size=160) = 32
+getcwd(buf=0x7fc2e45dd000, size=1) = -1 (Numerical result out of range)

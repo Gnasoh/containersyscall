@@ -1,0 +1,5 @@
+kexec_load(entry=0x7f4c1065a000, nr_segments=0, segments=0x7f4c1065a001, flags=0x0) = -1 (Function not implemented)
+kexec_load(entry=0x7fc1e920a000, nr_segments=417, segments=0x7fc1e8b0a000, flags=0x0) = -1 (Function not implemented)
+kexec_load(entry=0x7f81234ea000, nr_segments=8, segments=0x0, flags=0x0) = -1 (Function not implemented)
+kexec_load(entry=0x7f300c38f000, nr_segments=-1, segments=0x7f300c88f000, flags=0x0) = -1 (Function not implemented)
+kexec_load(entry=0x7fa82c3a2000, nr_segments=4096, segments=0x7fa82c3a2008, flags=0x0) = -1 (Function not implemented)

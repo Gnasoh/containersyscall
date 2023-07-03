@@ -1,0 +1,5 @@
+landlock_restrict_self(fd=392, flags=0x6161) = -1 (Function not implemented)
+landlock_restrict_self(fd=7, flags=0x460d747db6b809) = -1 (Function not implemented)
+landlock_restrict_self(fd=15, flags=0xe362000) = -1 (Function not implemented)
+landlock_restrict_self(fd=285, flags=0x88a01005420c10) = -1 (Function not implemented)
+landlock_restrict_self(fd=407, flags=255) = -1 (Function not implemented)

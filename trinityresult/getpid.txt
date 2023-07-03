@@ -1,0 +1,10 @@
+getpid() = 0x6e66
+getpid() = 0x6e66
+getpid() = 0x3b76
+getpid() = 0x3b76
+getpid() = 0x55e4
+getpid() = 0x55e4
+getpid() = 0x67c9
+getpid() = 0x67c9
+getpid() = 0x353c
+getpid() = 0x353c

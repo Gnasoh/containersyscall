@@ -1,0 +1,33 @@
+io_setup(nr_events=254, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0x400000, ctxp=0x4) = -1 (Bad address)
+io_setup(nr_events=189, ctxp=0x0) = -1 (Bad address)
+io_setup(nr_events=512, ctxp=0x7f6061867000) = 0
+io_setup(nr_events=0x41000a8a004100, ctxp=0x8) = -1 (Bad address)
+io_setup(nr_events=-9, ctxp=0x0) = -1 (Bad address)
+io_setup(nr_events=0xfffe, ctxp=0x7f0d33190000) = 0
+io_setup(nr_events=0, ctxp=0x7f0d31286000) = -1 (Invalid argument)
+io_setup(nr_events=-7, ctxp=0x7f5c77d69000) = -1 (Invalid argument)
+io_setup(nr_events=0xffff0000, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0x95959595, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0, ctxp=0x4) = -1 (Bad address)
+io_setup(nr_events=0x19000048, ctxp=0x7f5c77f6e000) = -1 (Invalid argument)
+io_setup(nr_events=0x6afe2000, ctxp=0x0) = -1 (Bad address)
+io_setup(nr_events=0xfffffffe, ctxp=0x7f5c77d6a000) = -1 (Invalid argument)
+io_setup(nr_events=247, ctxp=0x7f5c7856e000) = 0
+io_setup(nr_events=0xf6f6f6f6, ctxp=0x7f5c77d6e000) = -1 (Invalid argument)
+io_setup(nr_events=-9, ctxp=0x0) = -1 (Bad address)
+io_setup(nr_events=0x5d05d000, ctxp=0x8) = -1 (Bad address)
+io_setup(nr_events=1, ctxp=0x7f340d058000) = 0
+io_setup(nr_events=0x4000200, ctxp=0x7f340eb61000) = -1 (Invalid argument)
+io_setup(nr_events=-10, ctxp=0x8) = -1 (Bad address)
+io_setup(nr_events=0x5f5f5f5f, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0xffffffff67676767, ctxp=0x4) = -1 (Bad address)
+io_setup(nr_events=0x200000, ctxp=0x7eff7747e000) = -1 (Resource temporarily unavailable)
+io_setup(nr_events=0x3c6f21707b0b, ctxp=0x7eff75373000) = -1 (Invalid argument)
+io_setup(nr_events=512, ctxp=0x4) = -1 (Bad address)
+io_setup(nr_events=0xffffefff, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0x4000926, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0x5cd2805a, ctxp=0x7eff75375000) = -1 (Invalid argument)
+io_setup(nr_events=85, ctxp=0x1) = -1 (Bad address)
+io_setup(nr_events=0x8000, ctxp=0x7eff75975000) = 0
+io_setup(nr_events=0x200000, ctxp=0x4) = -1 (Bad address)

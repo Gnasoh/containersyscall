@@ -1,0 +1,17 @@
+faccessat(dfd=152, filename="/sys/devices/virtual/block/ram3/inflight", mode=10) = -1 (Invalid argument)
+faccessat(dfd=152, filename="/proc/2/task/2/net/rt_cache", mode=70) = -1 (Invalid argument)
+faccessat(dfd=85, filename="/sys/bus/workqueue/devices", mode=0) = 0
+faccessat(dfd=85, filename="/sys/devices/virtual/block/ram11/queue/io_poll_delay", mode=0) = 0
+faccessat(dfd=29, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:29", mode=30) = -1 (Invalid argument)
+faccessat(dfd=406, filename="/proc/sys/net/core/wmem_default", mode=1070) = -1 (Invalid argument)
+faccessat(dfd=406, filename="/sys/devices/virtual/block/loop4/discard_alignment", mode=0) = 0
+faccessat(dfd=406, filename="/sys/devices/virtual/block/ram9/queue/max_sectors_kb", mode=2700) = -1 (Invalid argument)
+faccessat(dfd=289, filename="/proc/irq/12/affinity_hint", mode=400) = -1 (Invalid argument)
+faccessat(dfd=289, filename="/proc/sys/net/ipv6/neigh/default/gc_thresh2", mode=1400) = -1 (Invalid argument)
+faccessat(dfd=400, filename="/proc/sys/net/netfilter/nf_conntrack_dccp_timeout_closereq", mode=0) = 0
+faccessat(dfd=400, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C01:00/uevent", mode=0) = 0
+faccessat(dfd=23, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0F:08", mode=5040) = -1 (Invalid argument)
+faccessat(dfd=23, filename="/sys/devices/virtual/bdi/7:3", mode=0) = 0
+faccessat(dfd=30, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A06:04/PNP0C80:01/status", mode=0) = 0
+faccessat(dfd=17, filename="/proc/10787/task/10787/limits", mode=40) = -1 (Invalid argument)
+faccessat(dfd=283, filename="/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input0/uniq", mode=0) = 0

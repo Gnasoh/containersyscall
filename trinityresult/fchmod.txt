@@ -1,0 +1,17 @@
+fchmod(fd=161, mode=1007) = -1 (Read-only file system)
+fchmod(fd=161, mode=0) = -1 (Read-only file system)
+fchmod(fd=161, mode=2707) = -1 (Read-only file system)
+fchmod(fd=161, mode=4106) = -1 (Read-only file system)
+fchmod(fd=161, mode=0) = -1 (Read-only file system)
+fchmod(fd=286, mode=4000) = 0
+fchmod(fd=286, mode=0) = 0
+fchmod(fd=287, mode=40) = 0
+fchmod(fd=287, mode=4000) = 0
+fchmod(fd=288, mode=102) = 0
+fchmod(fd=288, mode=4010) = 0
+fchmod(fd=10, mode=4004) = 0
+fchmod(fd=10, mode=10) = 0
+fchmod(fd=79, mode=4000) = -1 (Read-only file system)
+fchmod(fd=79, mode=4040) = -1 (Read-only file system)
+fchmod(fd=16, mode=4060) = 0
+fchmod(fd=16, mode=61) = 0

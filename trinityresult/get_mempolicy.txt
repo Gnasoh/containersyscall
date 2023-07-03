@@ -1,0 +1,5 @@
+get_mempolicy(policy=0x7f2380494000, nmask=0x7f2380694000, maxnode=353, addr=0x7f2380694000, flags=0x5581dd632) = -1 (Function not implemented)
+get_mempolicy(policy=0x7f9f424c2000, nmask=0x7f9f424c2001, maxnode=508, addr=0x7f9f409ba000, flags=0x5647d3469) = -1 (Function not implemented)
+get_mempolicy(policy=0x7fe0c8170000, nmask=0x7fe0c8170001, maxnode=505, addr=0x7fe0c8170009, flags=0x55f42c41a) = -1 (Function not implemented)
+get_mempolicy(policy=0x7fb37628f000, nmask=0x7fb37628f004, maxnode=434, addr=0x7fb375e8d000, flags=0x55c8c98c0) = -1 (Function not implemented)
+get_mempolicy(policy=0x7f755c241000, nmask=0x7f755c241004, maxnode=125, addr=0x7f755c23f000, flags=0x55e50d8ff) = -1 (Function not implemented)

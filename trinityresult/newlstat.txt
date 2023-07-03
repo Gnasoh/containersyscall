@@ -1,0 +1,20 @@
+newlstat(filename="/proc/sys/net/ipv4/conf/all/arp_ignore", statbuf=0x7f028a2c3000) = 0
+newlstat(filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:04/device:0f", statbuf=0x7f0289dc3000) = 0
+newlstat(filename=".//proc/sys/net/ipv6/neigh/eth0/unres_qlen", statbuf=0x7f4abae5d000) = -1 (No such file or directory)
+newlstat(filename="/sys/kernel/irq/20/actions", statbuf=0x0) = -1 (Bad address)
+newlstat(filename="/proc/sys/net/netfilter/nf_conntrack_dccp_timeout_open", statbuf=0x7f4abb061000) = 0
+newlstat(filename="/proc/sys/net/ipv6/neigh/lo/proxy_qlen", statbuf=0x7f4abae5e000) = 0
+newlstat(filename="/sys/bus/pci/slots/20/adapter", statbuf=0x7f9660571000) = 0
+newlstat(filename="/proc/1/task/1/net/netlink", statbuf=0x7f9660976000) = 0
+newlstat(filename="/sys/devices/virtual/block/ram14/queue/nomerges", statbuf=0x4) = -1 (Bad address)
+newlstat(filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A06:04/PNP0C80:01/uevent", statbuf=0x0) = -1 (Bad address)
+newlstat(filename="/proc/sys/net/ipv4/conf/lo/accept_redirects", statbuf=0x0) = -1 (Bad address)
+newlstat(filename="/sys/bus/pci/slots/23/adapter", statbuf=0x1) = -1 (Bad address)
+newlstat(filename="/sys/devices/virtual/block/loop5/queue/io_poll", statbuf=0x1) = -1 (Bad address)
+newlstat(filename="/sys/devices/platform/serial8250/tty/ttyS0/dev", statbuf=0x4) = -1 (Bad address)
+newlstat(filename="/sys/module/rcupdate/parameters/rcu_cpu_stall_suppress", statbuf=0x0) = -1 (Bad address)
+newlstat(filename="/proc/2385/task/2385/net/udplite", statbuf=0x1) = -1 (Bad address)
+newlstat(filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0012:00/ndbus0/region0/pfn0.0/modalias", statbuf=0x4) = -1 (Bad address)
+newlstat(filename="/proc/1/task/1/net/dev_snmp6/eth0", statbuf=0x4) = -1 (Bad address)
+newlstat(filename="/sys/devices/pci0000:00/0000:00:07.0/virtio5/net/eth0/statistics/tx_compressed", statbuf=0x7ff0f9ab9000) = 0
+newlstat(filename="/sys/devices/system/cpu/cpu0/cache", statbuf=0x7ff0f81af000) = 0

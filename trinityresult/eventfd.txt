@@ -1,0 +1,10 @@
+eventfd(count=0x101010) = 412
+eventfd(count=8) = 415
+eventfd(count=0) = 412
+eventfd(count=185) = 415
+eventfd(count=4096) = 411
+eventfd(count=0) = 414
+eventfd(count=1) = 412
+eventfd(count=0x3a3a3a) = 415
+eventfd(count=0) = 412
+eventfd(count=4096) = 415

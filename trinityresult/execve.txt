@@ -1,0 +1,10 @@
+execve(name="/sys/devices/virtual/net/lo/carrier", argv=0x5641536fd340, envp=0x564153709470) = 0
+execve(name="/sys/devices/virtual/block/loop5/queue/nomerges", argv=0x56415357d9d0, envp=0x564153534a70) = 0
+execve(name="/sys/kernel/slab/inode_cache", argv=0x55f08d32c7f0, envp=0x55f08d4f8180) = 0
+execve(name="/sys/bus/pci/slots/31/power", argv=0x55f08d4f3d90, envp=0x55f08d500260) = 0
+execve(name="/sys/kernel/slab/dma-kmalloc-256", argv=0x55e3b7713a40, envp=0x55e3b771aaf0) = 0
+execve(name="/proc/sys/kernel/max_rcu_stall_to_panic", argv=0x55e3b7713a80, envp=0x55e3b7719b70) = 0
+execve(name="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:04/device:23/sun", argv=0x560ac0528a70, envp=0x560ac0527530) = 0
+execve(name="/proc/1/oom_score", argv=0x560ac06c0ba0, envp=0x560ac0528d40) = 0
+execve(name="/sys/devices/virtual/workqueue/blkcg_punt_bio", argv=0x55ec65efbe50, envp=0x55ec65efb9a0) = 0
+execve(name=".//sys/devices/system/memory/memory7", argv=0x55ec65efbd40, envp=0x55ec660c5e80) = 0

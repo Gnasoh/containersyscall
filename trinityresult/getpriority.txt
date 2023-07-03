@@ -1,0 +1,23 @@
+getpriority(which=0x0, who=28284) = 20
+getpriority(which=0x1, who=1) = 20
+getpriority(which=0x2, who=0) = 20
+getpriority(which=0x0, who=28284) = 20
+getpriority(which=0x0, who=15244) = 20
+getpriority(which=0x1, who=1) = 20
+getpriority(which=0x2, who=1) = -1 (No such process)
+getpriority(which=0x2, who=0) = 20
+getpriority(which=0x0, who=15244) = 20
+getpriority(which=0x0, who=1) = 20
+getpriority(which=0x1, who=0) = 1
+getpriority(which=0x2, who=0) = 20
+getpriority(which=0x0, who=0) = 1
+getpriority(which=0x0, who=0) = 20
+getpriority(which=0x1, who=0) = 20
+getpriority(which=0x2, who=0) = 20
+getpriority(which=0x0, who=1) = 20
+getpriority(which=0x0, who=1) = 20
+getpriority(which=0x1, who=13676) = -1 (No such process)
+getpriority(which=0x1, who=1) = 20
+getpriority(which=0x2, who=1) = -1 (No such process)
+getpriority(which=0x2, who=0) = 20
+getpriority(which=0x0, who=13676) = 20

@@ -1,0 +1,4 @@
+migrate_pages(pid=29551, maxnode=64, old_nodes=0x1, new_nodes=0x0) = -1 (Function not implemented)
+migrate_pages(pid=17034, maxnode=-10, old_nodes=0x7f630bb3a000, new_nodes=0x7f630bb3a004) = -1 (Function not implemented)
+migrate_pages(pid=29180, maxnode=0xffffffffffff0008, old_nodes=0x0, new_nodes=0x4) = -1 (Function not implemented)
+migrate_pages(pid=2060, maxnode=0xfffffff6, old_nodes=0x0, new_nodes=0x0) = -1 (Function not implemented)

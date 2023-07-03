@@ -1,0 +1,11 @@
+getresgid(rgid=0x7f6ac21dd000, egid=0x7f6ac21dd000, sgid=0x7f6ac21dd000) = 0
+getresgid(rgid=0x7f6ac23e2000, egid=0x7f6ac25e2000, sgid=0x7f6ac25e2008) = 0
+getresgid(rgid=0x7f00b2043000, egid=0x0, sgid=0x1) = -1 (Bad address)
+getresgid(rgid=0x7f00b2443000, egid=0x7f00b2243000, sgid=0x7f00b2643000) = 0
+getresgid(rgid=0x7f00b2743000, egid=0x7f00b2743000, sgid=0x7f00b2743001) = 0
+getresgid(rgid=0x7ff636c07000, egid=0x7ff636807000, sgid=0x7ff636807001) = 0
+getresgid(rgid=0x7ff636602000, egid=0x7ff636602001, sgid=0x7ff636d07000) = 0
+getresgid(rgid=0x7fcc7f3ea000, egid=0x7fcc7f1e5000, sgid=0x7fcc7f1e5008) = 0
+getresgid(rgid=0x7fcc7f1e5000, egid=0x7fcc7f7ea000, sgid=0x7fcc7f3ea000) = 0
+getresgid(rgid=0x7faa6e635000, egid=0x7faa6ea35000, sgid=0x7faa6ea35008) = 0
+getresgid(rgid=0x7faa6ed35000, egid=0x7faa6ed35008, sgid=0x7faa6ea35000) = 0

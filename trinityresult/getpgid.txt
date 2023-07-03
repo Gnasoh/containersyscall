@@ -1,0 +1,10 @@
+getpgid(pid=1) = 1
+getpgid(pid=1) = 1
+getpgid(pid=0) = 0x6b31
+getpgid(pid=15200) = 0x6b31
+getpgid(pid=0) = 0x6b31
+getpgid(pid=21966) = 0x6b31
+getpgid(pid=26545) = 0x6456
+getpgid(pid=1) = 1
+getpgid(pid=13580) = 2385
+getpgid(pid=13580) = 2385

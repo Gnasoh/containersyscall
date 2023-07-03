@@ -1,0 +1,6 @@
+acct(name=0x7fed35386000) = -1 (Function not implemented)
+acct(name=0x7f588dd73000) = -1 (Function not implemented)
+acct(name=0x7fcf85c9e000) = -1 (Function not implemented)
+acct(name=0x7f9cb75b0000) = -1 (Function not implemented)
+acct(name=0x0) = -1 (Function not implemented)
+acct(name=0x7fe16b3f1000) = -1 (Function not implemented)

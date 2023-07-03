@@ -1,0 +1,11 @@
+newstat(filename="/sys/module/rcutree", statbuf=0x0) = -1 (Bad address)
+newstat(filename="/sys/kernel/software_nodes", statbuf=0x0) = -1 (Bad address)
+newstat(filename="/proc/sys/net/ipv6/conf/eth0/drop_unsolicited_na", statbuf=0x7f805aa21000) = 0
+newstat(filename="/sys/bus/pci/slots/9/adapter", statbuf=0x7f805b025000) = 0
+newstat(filename="/sys/kernel/slab/kmalloc-192", statbuf=0x7fbc15d9b000) = 0
+newstat(filename="/sys/devices/pnp0/00:00", statbuf=0x8) = -1 (Bad address)
+newstat(filename="/sys/devices/virtual/block/loop4/range", statbuf=0x1) = -1 (Bad address)
+newstat(filename="/sys/module/vt/parameters/default_red", statbuf=0x7f519e874000) = 0
+newstat(filename="/sys/kernel/slab/tcp_bind_bucket", statbuf=0x7f519ea74000) = 0
+newstat(filename="/sys/devices/virtual/block/loop6/queue/max_sectors_kb", statbuf=0x7f4142495000) = 0
+newstat(filename="/sys/firmware/acpi/interrupts/gpe05", statbuf=0x7f4142697000) = 0

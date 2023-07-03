@@ -1,0 +1,10 @@
+gettid() = 0x6ee1
+gettid() = 0x6ee1
+gettid() = 0x3bf1
+gettid() = 0x3bf1
+gettid() = 0x565f
+gettid() = 0x565f
+gettid() = 0x684f
+gettid() = 0x684f
+gettid() = 0x3e38
+gettid() = 0x3e38

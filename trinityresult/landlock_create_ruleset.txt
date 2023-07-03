@@ -1,0 +1,5 @@
+landlock_create_ruleset(attr=234, size=4096, flags=0x5578aaf495f4) = -1 (Function not implemented)
+landlock_create_ruleset(attr=0x83838383, size=1, flags=0x5622ade12e5d) = -1 (Function not implemented)
+landlock_create_ruleset(attr=164, size=4, flags=0x56061ed4e) = -1 (Function not implemented)
+landlock_create_ruleset(attr=0x9280200001, size=4, flags=0x55fc76fb383a) = -1 (Function not implemented)
+landlock_create_ruleset(attr=255, size=1, flags=0x7fa9123efcf0) = -1 (Function not implemented)

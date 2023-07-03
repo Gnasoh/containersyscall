@@ -1,0 +1,420 @@
+futex(uaddr=0x562880c19b00, op=0x5, val=1, utime=0x7f4d78c4f000, uaddr2=0x562880c19880, val3=3) = 0
+futex(uaddr=0x7f4d7904f000, op=0x1, val=0x20202020, utime=0x8, uaddr2=0x7f4d7a957000, val3=38) = 0
+futex(uaddr=0x562880c19c40, op=0xc, val=0x7fffffff, utime=0x7f4d7884f000, uaddr2=0x562880c19ce0, val3=-10) = -1 (Invalid argument)
+futex(uaddr=0x562880c197e0, op=0x180, val=1, utime=0x1, uaddr2=0x562880c19a60, val3=0x2a2a2a2a) = -1 (Bad address)
+futex(uaddr=0x7f4d7884d000, op=0x2, val=-29, utime=0x4, uaddr2=0x7f4d78f4f000, val3=512) = -1 (Function not implemented)
+futex(uaddr=0x562880c19ce0, op=0x5, val=1, utime=0x0, uaddr2=0x562880c19b00, val3=4) = 0
+futex(uaddr=0x562880c19660, op=0x6, val=0x71506d3563896a51, utime=0x4, uaddr2=0x562880c19ce0, val3=0xffff) = -1 (Bad address)
+futex(uaddr=0x7f4d7a959000, op=0x3, val=0x15151515, utime=0x7f4d7904f000, uaddr2=0x7f4d7a958000, val3=0xfffb) = 0
+futex(uaddr=0x562880c199c0, op=0x6, val=112, utime=0x7f4d7884e000, uaddr2=0x562880c199c0, val3=206) = -1 (No such process)
+futex(uaddr=0x7f4d7884f000, op=0x4, val=0, utime=0x4, uaddr2=0x7f4d78c4f000, val3=0x20000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f4d7a957000, op=0x4, val=0x5a585858, utime=0x0, uaddr2=0x7f4d78f4f000, val3=16384) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19c40, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x562880c19660, val3=9768) = 0
+futex(uaddr=0x562880c19b00, op=0x5, val=1, utime=0x1, uaddr2=0x562880c19d80, val3=6) = 0
+futex(uaddr=0x562880c199c0, op=0x5, val=1, utime=0x4, uaddr2=0x562880c19660, val3=6) = 0
+futex(uaddr=0x7f4d78f4f000, op=0x7, val=38, utime=0x7f4d78a4f000, uaddr2=0x7f4d78f4f000, val3=0xd9999999) = -1 (Operation not permitted)
+futex(uaddr=0x562880c19d80, op=0xc, val=0x7fffffff, utime=0x7f4d78c4f000, uaddr2=0x562880c19740, val3=0xa986753ce6acb5) = -1 (Invalid argument)
+futex(uaddr=0x562880c19a60, op=0x1, val=0x7fffffff, utime=0x7f4d7a957000, uaddr2=0x562880c197e0, val3=0) = 0
+futex(uaddr=0x562880c19c40, op=0x6, val=0x444d440794412e, utime=0x0, uaddr2=0x562880c19b00, val3=-10) = -1 (No such process)
+futex(uaddr=0x562880c19a60, op=0x6, val=128, utime=0x0, uaddr2=0x562880c19d80, val3=190) = -1 (No such process)
+futex(uaddr=0x562880c19a60, op=0x10b, val=0, utime=0x0, uaddr2=0x562880c197e0, val3=16384) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19880, op=0xb, val=0, utime=0x7f4d7904f000, uaddr2=0x562880c197e0, val3=0xffff3c62d95dc516) = -1 (Connection timed out)
+futex(uaddr=0x562880c19880, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x562880c19ba0, val3=-5) = 0
+futex(uaddr=0x562880c199c0, op=0x6, val=0xffffffff, utime=0x8, uaddr2=0x562880c19a60, val3=0x29810a008) = -1 (Bad address)
+futex(uaddr=0x562880c19c40, op=0xc, val=0x7fffffff, utime=0x7f4d7a957000, uaddr2=0x562880c19c40, val3=29) = -1 (Invalid argument)
+futex(uaddr=0x562880c19a60, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x562880c19660, val3=-9) = -1 (Invalid argument)
+futex(uaddr=0x562880c19ce0, op=0x80, val=1, utime=0x8, uaddr2=0x562880c19880, val3=-6) = -1 (Bad address)
+futex(uaddr=0x562880c19d80, op=0xc, val=0x7fffffff, utime=0x7f4d78e4f000, uaddr2=0x562880c197e0, val3=0x99e4502c966) = -1 (Invalid argument)
+futex(uaddr=0x562880c19b00, op=0x9, val=0x62786318d1, utime=0x4, uaddr2=0x562880c19ce0, val3=0x6060606) = -1 (Bad address)
+futex(uaddr=0x7f4d78a4f000, op=0x9, val=230, utime=0x4, uaddr2=0x7f4d7a958000, val3=0xffffffffbfffffff) = -1 (Bad address)
+futex(uaddr=0x562880c19c40, op=0x10b, val=0, utime=0x7f4d7a959000, uaddr2=0x562880c19880, val3=0x56565656) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19ba0, op=0x6, val=0x2fa8fbea0e6e48ec, utime=0x0, uaddr2=0x562880c19740, val3=0x7247e4b21169e6e3) = -1 (No such process)
+futex(uaddr=0x562880c19c40, op=0x1, val=0x7fffffff, utime=0x4, uaddr2=0x562880c19ce0, val3=2239) = 0
+futex(uaddr=0x562880c19660, op=0x5, val=1, utime=0x7f4d7884f000, uaddr2=0x562880c19660, val3=6) = 0
+futex(uaddr=0x7f4d7a959000, op=0xb, val=0x6110549924c09f, utime=0x4, uaddr2=0x7f4d7a959000, val3=159) = -1 (Bad address)
+futex(uaddr=0x7f4d7884f000, op=0x10b, val=0x3ad41081ed31, utime=0x8, uaddr2=0x7f4d7884f000, val3=0xd5f22db8c5f43c44) = -1 (Bad address)
+futex(uaddr=0x7f4d7904f000, op=0xb, val=0x51515151, utime=0x0, uaddr2=0x7f4d7a958000, val3=0x2fc48ac459079f76) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f4d7884d000, op=0xb, val=0, utime=0x8, uaddr2=0x7f4d7884d000, val3=0x8e8e8e8e) = -1 (Bad address)
+futex(uaddr=0x7f4d7a957000, op=0x10b, val=0x10101010, utime=0x7f4d78a4f000, uaddr2=0x7f4d7884c000, val3=0xafafafaf) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19660, op=0x10b, val=0, utime=0x4, uaddr2=0x562880c19740, val3=1) = -1 (Bad address)
+futex(uaddr=0x562880c19d80, op=0x5, val=1, utime=0x1, uaddr2=0x562880c199c0, val3=2) = 0
+futex(uaddr=0x562880c19c40, op=0x5, val=1, utime=0x4, uaddr2=0x562880c19880, val3=2) = 0
+futex(uaddr=0x7f4d78c4f000, op=0x180, val=0xffffffff, utime=0x7f4d78c4f000, uaddr2=0x7f4d7a957000, val3=0x4a12) = -1 (Function not implemented)
+futex(uaddr=0x7f4d7884c000, op=0x80, val=0x400000, utime=0x0, uaddr2=0x7f4d7904f000, val3=0x10000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19d80, op=0x10b, val=0, utime=0x4, uaddr2=0x562880c19920, val3=0xde1d46c) = -1 (Bad address)
+futex(uaddr=0x562880c19ba0, op=0xb, val=0, utime=0x0, uaddr2=0x562880c19c40, val3=-7) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f4d7a958000, op=0x80, val=0x110430f000, utime=0x8, uaddr2=0x7f4d7a957000, val3=0) = -1 (Bad address)
+futex(uaddr=0x7f4d7a958000, op=0x80, val=0x100000, utime=0x7f4d7884a000, uaddr2=0x7f4d7a959000, val3=0xe4e4) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f4d78a4f000, op=0x80, val=0x240012805054220, utime=0x0, uaddr2=0x7f4d7a958000, val3=0xf3f513953fd7e7de) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19ce0, op=0x6, val=1, utime=0x0, uaddr2=0x562880c199c0, val3=4096) = -1 (No such process)
+futex(uaddr=0x562880c19ba0, op=0x5, val=1, utime=0x0, uaddr2=0x562880c19ba0, val3=5) = 0
+futex(uaddr=0x7f4d78e4f000, op=0x81, val=0x800fffb, utime=0x0, uaddr2=0x7f4d7884c000, val3=45) = 0
+futex(uaddr=0x562880c19920, op=0x1, val=0x7fffffff, utime=0x7f4d78a4f000, uaddr2=0x562880c19660, val3=222) = 0
+futex(uaddr=0x7f4d7a957000, op=0x84, val=0x9f9f9f9f, utime=0x8, uaddr2=0x7f4d78f4f000, val3=29) = -1 (Invalid argument)
+futex(uaddr=0x7f4d7884f000, op=0x84, val=-8, utime=0x7f4d7884b000, uaddr2=0x7f4d7904f000, val3=174) = -1 (Invalid argument)
+futex(uaddr=0x562880c19740, op=0x10b, val=0, utime=0x1, uaddr2=0x562880c19740, val3=2) = -1 (Bad address)
+futex(uaddr=0x562880c19b00, op=0xc, val=0x7fffffff, utime=0x7f4d78c4f000, uaddr2=0x562880c19920, val3=0xffffffffdeffacad) = -1 (Invalid argument)
+futex(uaddr=0x562880c199c0, op=0xc, val=0x7fffffff, utime=0x7f4d78f4f000, uaddr2=0x562880c19a60, val3=-138) = -1 (Invalid argument)
+futex(uaddr=0x7f4d7904f000, op=0x84, val=0xf710d26e41, utime=0x1, uaddr2=0x7f4d78e4f000, val3=-4) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f4d7884f000, op=0x84, val=256, utime=0x7f4d7884c000, uaddr2=0x7f4d7a958000, val3=0x20000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c197e0, op=0x80, val=1, utime=0x8, uaddr2=0x562880c19c40, val3=0x2f2f2f2f) = -1 (Bad address)
+futex(uaddr=0x562880c19a60, op=0x5, val=1, utime=0x7f4d7884f000, uaddr2=0x562880c199c0, val3=3) = 0
+futex(uaddr=0x562880c19b00, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x562880c19a60, val3=-6) = 0
+futex(uaddr=0x7f4d7904f000, op=0x86, val=179, utime=0x0, uaddr2=0x7f4d7a959000, val3=8477) = 0
+futex(uaddr=0x562880c199c0, op=0x1, val=0x7fffffff, utime=0x7f4d7884e000, uaddr2=0x562880c197e0, val3=0x92929292) = 0
+futex(uaddr=0x7f4d7884c000, op=0x88, val=0x480004734a900002, utime=0x7f4d78f4f000, uaddr2=0x7f4d7884c000, val3=0x5d5d5d5d) = 0
+futex(uaddr=0x7f4d78c4f000, op=0x89, val=-8, utime=0x7f4d7884f000, uaddr2=0x7f4d7884d000, val3=257) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c19b00, op=0x89, val=0xfefef577f7ff9ffe, utime=0x7f4d7884b000, uaddr2=0x562880c197e0, val3=0x80000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x562880c199c0, op=0x5, val=1, utime=0x4, uaddr2=0x562880c19b00, val3=1) = 0
+futex(uaddr=0x562880c19920, op=0x5, val=1, utime=0x4, uaddr2=0x562880c19d80, val3=2) = 0
+futex(uaddr=0x562880c19d80, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x562880c19a60, val3=0x40000000) = -1 (Invalid argument)
+futex(uaddr=0x562880c19880, op=0x1, val=0x7fffffff, utime=0x1, uaddr2=0x562880c197e0, val3=3289) = 0
+futex(uaddr=0x562880c19740, op=0x1, val=0x7fffffff, utime=0x8, uaddr2=0x562880c19880, val3=0x8465af8a01) = 0
+futex(uaddr=0x7fe86ebf9000, op=0x0, val=4, utime=0x7fe86caeb000, uaddr2=0x7fe86caed000, val3=0xfffffffa) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d88129c0, op=0x6, val=0x80a8aaa43215, utime=0x7fe86caec000, uaddr2=0x5647d8812a60, val3=0x400000) = -1 (No such process)
+futex(uaddr=0x5647d8812b00, op=0x5, val=1, utime=0x7fe86caeb000, uaddr2=0x5647d8812d80, val3=2) = 0
+futex(uaddr=0x5647d88129c0, op=0x10b, val=0, utime=0x1, uaddr2=0x5647d8812ce0, val3=0x80075071050004) = -1 (Bad address)
+futex(uaddr=0x7fe86caef000, op=0x1, val=0x95959595, utime=0x7fe86caec000, uaddr2=0x7fe86caed000, val3=185) = 0
+futex(uaddr=0x5647d8812ce0, op=0x5, val=1, utime=0x8, uaddr2=0x5647d8812660, val3=4) = 0
+futex(uaddr=0x5647d8812660, op=0xc, val=0x7fffffff, utime=0x4, uaddr2=0x5647d8812d80, val3=0xb543) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812660, op=0x5, val=1, utime=0x1, uaddr2=0x5647d8812ba0, val3=0) = 0
+futex(uaddr=0x5647d8812ba0, op=0x4, val=2, utime=0x7fe86d2ef000, uaddr2=0x5647d88129c0, val3=0xa72f9ecfa8) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d88127e0, op=0x6, val=0x8000000, utime=0x7fe86ebf9000, uaddr2=0x5647d88127e0, val3=122) = -1 (No such process)
+futex(uaddr=0x7fe86ebf8000, op=0x4, val=24, utime=0x1, uaddr2=0x7fe86caec000, val3=0x9d9c0d3945ca) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812660, op=0x5, val=1, utime=0x7fe86caea000, uaddr2=0x5647d8812660, val3=3) = 0
+futex(uaddr=0x7fe86ebf9000, op=0x5, val=-5, utime=0x0, uaddr2=0x7fe86ebf7000, val3=0x20000a09bc0008) = -1 (Function not implemented)
+futex(uaddr=0x7fe86d0ef000, op=0x5, val=64, utime=0x0, uaddr2=0x7fe86d0ef000, val3=0x22206f7c8fa3) = -1 (Function not implemented)
+futex(uaddr=0x7fe86ebf8000, op=0x5, val=121, utime=0x0, uaddr2=0x7fe86ebf7000, val3=0x17171717) = -1 (Function not implemented)
+futex(uaddr=0x5647d8812d80, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x5647d8812880, val3=-512) = 0
+futex(uaddr=0x5647d8812d80, op=0x6, val=-9, utime=0x4, uaddr2=0x5647d88127e0, val3=219) = -1 (Bad address)
+futex(uaddr=0x5647d8812b00, op=0x6, val=247, utime=0x7fe86d2ef000, uaddr2=0x5647d8812740, val3=-4) = -1 (No such process)
+futex(uaddr=0x7fe86caef000, op=0x6, val=-5, utime=0x7fe86caeb000, uaddr2=0x7fe86d0ef000, val3=2304) = 0
+futex(uaddr=0x7fe86caed000, op=0x7, val=0x5e5e5e5e, utime=0x7fe86d2ef000, uaddr2=0x7fe86ebf8000, val3=0x79ebb0bd072fa0d7) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86d0ef000, op=0x7, val=186, utime=0x0, uaddr2=0x7fe86d0ef000, val3=83) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86d2ef000, op=0x7, val=255, utime=0x8, uaddr2=0x7fe86ebf9000, val3=0xffffefff) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86ebf9000, op=0x7, val=0x5e3f8c4a1e7205a4, utime=0x7fe86ccef000, uaddr2=0x7fe86ceef000, val3=0xe2e2e2e2) = -1 (Operation not permitted)
+futex(uaddr=0x5647d8812ba0, op=0x7, val=-3, utime=0x1, uaddr2=0x5647d8812d80, val3=8) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86ebf7000, op=0x7, val=256, utime=0x7fe86caeb000, uaddr2=0x7fe86caef000, val3=8192) = -1 (Operation not permitted)
+futex(uaddr=0x5647d8812880, op=0x5, val=1, utime=0x8, uaddr2=0x5647d8812880, val3=2) = 0
+futex(uaddr=0x7fe86d0ef000, op=0x8, val=1, utime=0x4, uaddr2=0x7fe86d2ef000, val3=-9) = 0
+futex(uaddr=0x5647d8812920, op=0x100, val=1, utime=0x0, uaddr2=0x5647d8812880, val3=84) = -1 (Function not implemented)
+futex(uaddr=0x7fe86d0ef000, op=0x9, val=64, utime=0x8, uaddr2=0x7fe86d0ef000, val3=0xffd9) = -1 (Bad address)
+futex(uaddr=0x7fe86caec000, op=0x9, val=0x320cc151736a73b1, utime=0x7fe86d0ef000, uaddr2=0x7fe86d2ef000, val3=203) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812740, op=0x6, val=0x82828282, utime=0x0, uaddr2=0x5647d8812ce0, val3=0x3200a4440004) = -1 (No such process)
+futex(uaddr=0x5647d8812660, op=0xb, val=0, utime=0x4, uaddr2=0x5647d8812920, val3=-3) = -1 (Bad address)
+futex(uaddr=0x5647d8812ba0, op=0x9, val=0x92031224040a3e, utime=0x8, uaddr2=0x5647d8812c40, val3=-4) = -1 (Bad address)
+futex(uaddr=0x5647d8812b00, op=0x80, val=1, utime=0x7fe86caea000, uaddr2=0x5647d8812920, val3=0x400021300061014) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812a60, op=0x6, val=0xfffb, utime=0x8, uaddr2=0x5647d8812d80, val3=32) = -1 (Bad address)
+futex(uaddr=0x7fe86d0ef000, op=0x9, val=0x99999999, utime=0x4, uaddr2=0x7fe86d2ef000, val3=32) = -1 (Bad address)
+futex(uaddr=0x7fe86ebf9000, op=0x9, val=202, utime=0x1, uaddr2=0x7fe86ebf8000, val3=0x40000000) = -1 (Bad address)
+futex(uaddr=0x5647d8812880, op=0x10b, val=0, utime=0x8, uaddr2=0x5647d88129c0, val3=235) = -1 (Bad address)
+futex(uaddr=0x7fe86caec000, op=0x9, val=-8, utime=0x7fe86ceef000, uaddr2=0x7fe86caed000, val3=0) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812b00, op=0x5, val=1, utime=0x7fe86d1ef000, uaddr2=0x5647d8812880, val3=3) = 0
+futex(uaddr=0x5647d8812880, op=0x5, val=1, utime=0x0, uaddr2=0x5647d8812a60, val3=5) = 0
+futex(uaddr=0x5647d8812d80, op=0x10b, val=0, utime=0x7fe86ceef000, uaddr2=0x5647d8812d80, val3=0xfffffffffe000000) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812ce0, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x5647d8812880, val3=0x41be2c2c292fffbb) = -1 (Invalid argument)
+futex(uaddr=0x7fe86d1ef000, op=0xb, val=0xfffffffff7ffffff, utime=0x7fe86caef000, uaddr2=0x7fe86d2ef000, val3=160) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812d80, op=0xb, val=0, utime=0x8, uaddr2=0x5647d8812b00, val3=1) = -1 (Bad address)
+futex(uaddr=0x5647d8812660, op=0xb, val=57, utime=0x7fe86caeb000, uaddr2=0x5647d8812c40, val3=-6) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86d0ef000, op=0xb, val=0x6b686868, utime=0x7fe86d2ef000, uaddr2=0x7fe86ebf7000, val3=0x400000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812880, op=0x10b, val=0, utime=0x8, uaddr2=0x5647d8812880, val3=0x385d3bff) = -1 (Bad address)
+futex(uaddr=0x7fe86caee000, op=0x10b, val=55, utime=0x7fe86caef000, uaddr2=0x7fe86ebf9000, val3=-6) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86ebf9000, op=0x10b, val=0xa5a5a5a5, utime=0x7fe86d0ef000, uaddr2=0x7fe86d0ef000, val3=0xffffffff00010000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86ebf9000, op=0xb, val=255, utime=0x7fe86ceef000, uaddr2=0x7fe86caed000, val3=2048) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86d2ef000, op=0x10b, val=0, utime=0x7fe86d0ef000, uaddr2=0x7fe86ccef000, val3=54) = -1 (Connection timed out)
+futex(uaddr=0x5647d8812660, op=0x5, val=1, utime=0x0, uaddr2=0x5647d8812d80, val3=3) = 0
+futex(uaddr=0x7fe86ebf7000, op=0xc, val=129, utime=0x7fe86ccef000, uaddr2=0x7fe86caed000, val3=0) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812ba0, op=0xc, val=200, utime=0x7fe86caea000, uaddr2=0x5647d8812b00, val3=512) = -1 (Invalid argument)
+futex(uaddr=0x7fe86caec000, op=0xc, val=8192, utime=0x8, uaddr2=0x7fe86d0ef000, val3=2) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812b00, op=0xc, val=0x7fffffff, utime=0x1, uaddr2=0x5647d88127e0, val3=0xf0ad2c4988c3) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ceef000, op=0xc, val=0xfff6, utime=0x7fe86caef000, uaddr2=0x7fe86d2ef000, val3=-5) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ebf8000, op=0xc, val=0x31313131, utime=0x0, uaddr2=0x7fe86caef000, val3=0x4080000) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812a60, op=0xc, val=0x10000, utime=0x7fe86caeb000, uaddr2=0x5647d8812d80, val3=0x200000) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812740, op=0xb, val=0, utime=0x7fe86caef000, uaddr2=0x5647d8812c40, val3=255) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86d1ef000, op=0xc, val=0x680cca8168, utime=0x8, uaddr2=0x7fe86caee000, val3=0x42000046) = -1 (Invalid argument)
+futex(uaddr=0x7fe86caec000, op=0xc, val=0x2d2d2d2d, utime=0x7fe86caeb000, uaddr2=0x7fe86d2ef000, val3=1) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ebf8000, op=0xc, val=120, utime=0x7fe86ceef000, uaddr2=0x7fe86caed000, val3=255) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812b00, op=0xb, val=0, utime=0x7fe86caed000, uaddr2=0x5647d8812b00, val3=-2) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ebf8000, op=0xc, val=0x676fc9492d0c4f, utime=0x1, uaddr2=0x7fe86ebf7000, val3=0) = -1 (Invalid argument)
+futex(uaddr=0x5647d88127e0, op=0x5, val=1, utime=0x8, uaddr2=0x5647d88129c0, val3=3) = 0
+futex(uaddr=0x5647d8812d80, op=0xc, val=0x7fffffff, utime=0x7fe86ebf9000, uaddr2=0x5647d8812920, val3=0xb7b7b7b7) = -1 (Invalid argument)
+futex(uaddr=0x7fe86caed000, op=0x180, val=0x9090909, utime=0x7fe86ebf7000, uaddr2=0x7fe86ebf8000, val3=0xff37) = -1 (Function not implemented)
+futex(uaddr=0x7fe86caec000, op=0x180, val=0x40000000, utime=0x7fe86caef000, uaddr2=0x7fe86d0ef000, val3=151) = -1 (Function not implemented)
+futex(uaddr=0x5647d8812c40, op=0x5, val=1, utime=0x7fe86ccef000, uaddr2=0x5647d8812d80, val3=5) = 0
+futex(uaddr=0x5647d8812920, op=0x1, val=0x7fffffff, utime=0x7fe86ceef000, uaddr2=0x5647d8812a60, val3=0xffff0000) = 0
+futex(uaddr=0x7fe86ceef000, op=0x83, val=16, utime=0x1, uaddr2=0x7fe86d0ef000, val3=16384) = 0
+futex(uaddr=0x5647d8812d80, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x5647d8812d80, val3=0x208c0b02c000011) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812740, op=0x6, val=0x6b4d6e744b34a74f, utime=0x1, uaddr2=0x5647d8812a60, val3=0xffffffffffff4950) = -1 (Bad address)
+futex(uaddr=0x7fe86caed000, op=0x84, val=-7, utime=0x4, uaddr2=0x7fe86ceef000, val3=-2) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ebf9000, op=0x84, val=0x5858, utime=0x0, uaddr2=0x7fe86ccef000, val3=0xfffffff9) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86ccef000, op=0x84, val=0x42080000100, utime=0x7fe86ccef000, uaddr2=0x7fe86ebf8000, val3=-10) = -1 (Invalid argument)
+futex(uaddr=0x7fe86ccef000, op=0x84, val=-107, utime=0x7fe86caeb000, uaddr2=0x7fe86d2ef000, val3=0x478ec4da24262834) = -1 (Invalid argument)
+futex(uaddr=0x5647d8812880, op=0x1, val=0x7fffffff, utime=0x4, uaddr2=0x5647d8812ba0, val3=0x8000) = 0
+futex(uaddr=0x7fe86caed000, op=0x85, val=0x3e3e3e3e, utime=0x7fe86caea000, uaddr2=0x7fe86caed000, val3=211) = 0
+futex(uaddr=0x5647d8812880, op=0x5, val=1, utime=0x1, uaddr2=0x5647d8812d80, val3=5) = 0
+futex(uaddr=0x7fe86caee000, op=0x87, val=-3, utime=0x1, uaddr2=0x7fe86ccef000, val3=2670) = -1 (Operation not permitted)
+futex(uaddr=0x5647d8812c40, op=0x6, val=0x589d1510700c8710, utime=0x8, uaddr2=0x5647d8812660, val3=70) = -1 (Bad address)
+futex(uaddr=0x7fe86ebf9000, op=0x87, val=223, utime=0x7fe86ccef000, uaddr2=0x7fe86ebf9000, val3=128) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86caed000, op=0x87, val=0x8000000, utime=0x8, uaddr2=0x7fe86caed000, val3=-8) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86d1ef000, op=0x87, val=-3, utime=0x7fe86d1ef000, uaddr2=0x7fe86d1ef000, val3=-2) = -1 (Operation not permitted)
+futex(uaddr=0x5647d8812a60, op=0x87, val=1, utime=0x7fe86ccef000, uaddr2=0x5647d8812660, val3=83) = -1 (Operation not permitted)
+futex(uaddr=0x5647d8812c40, op=0xc, val=0x7fffffff, utime=0x7fe86ebf9000, uaddr2=0x5647d88129c0, val3=211) = -1 (Invalid argument)
+futex(uaddr=0x7fe86d1ef000, op=0x87, val=127, utime=0x1, uaddr2=0x7fe86caed000, val3=0xa2222222) = -1 (Operation not permitted)
+futex(uaddr=0x7fe86ebf8000, op=0x87, val=-5, utime=0x7fe86d2ef000, uaddr2=0x7fe86d2ef000, val3=0x100000) = -1 (Operation not permitted)
+futex(uaddr=0x5647d88127e0, op=0x5, val=1, utime=0x4, uaddr2=0x5647d8812660, val3=1) = 0
+futex(uaddr=0x7fe86ebf8000, op=0x88, val=-8, utime=0x7fe86caea000, uaddr2=0x7fe86d2ef000, val3=69) = 0
+futex(uaddr=0x5647d8812880, op=0x10b, val=0, utime=0x1, uaddr2=0x5647d8812880, val3=0x381c05205) = -1 (Bad address)
+futex(uaddr=0x7fe86d1ef000, op=0x189, val=0xfffffff7, utime=0x1, uaddr2=0x7fe86caef000, val3=0x6e6e6e6e) = -1 (Bad address)
+futex(uaddr=0x7fe86d2ef000, op=0x189, val=0xe0e4e0faf0, utime=0x7fe86caeb000, uaddr2=0x7fe86caec000, val3=0xffff) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7fe86d1ef000, op=0x189, val=128, utime=0x0, uaddr2=0x7fe86d2ef000, val3=-2) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812920, op=0x5, val=1, utime=0x0, uaddr2=0x5647d8812b00, val3=4) = 0
+futex(uaddr=0x5647d8812c40, op=0x6, val=0xc5c55ff1b902, utime=0x1, uaddr2=0x5647d8812ce0, val3=0) = -1 (Bad address)
+futex(uaddr=0x7fe86d0ef000, op=0x8a, val=0xff2a, utime=0x0, uaddr2=0x7fe86caef000, val3=0xd0d0) = 0
+futex(uaddr=0x5647d8812660, op=0x10b, val=0, utime=0x8, uaddr2=0x5647d8812920, val3=12266) = -1 (Bad address)
+futex(uaddr=0x5647d8812880, op=0x10b, val=0, utime=0x7fe86ceef000, uaddr2=0x5647d88129c0, val3=2) = -1 (Connection timed out)
+futex(uaddr=0x7fe86d2ef000, op=0x8b, val=0x4080002, utime=0x7fe86caef000, uaddr2=0x7fe86caed000, val3=0) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5647d8812740, op=0xc, val=0x7fffffff, utime=0x7fe86d0ef000, uaddr2=0x5647d88129c0, val3=227) = -1 (Invalid argument)
+futex(uaddr=0x7fe86d1ef000, op=0x18b, val=0xc000, utime=0x1, uaddr2=0x7fe86ebf7000, val3=0x803a02220002) = -1 (Bad address)
+futex(uaddr=0x5647d8812920, op=0x5, val=1, utime=0x7fe86caea000, uaddr2=0x5647d88129c0, val3=2) = 0
+futex(uaddr=0x7fe86d2ef000, op=0x100, val=0x4b4b4b4b, utime=0x1, uaddr2=0x7fe86ccef000, val3=-9) = -1 (Bad address)
+futex(uaddr=0x7f8ab92f3000, op=0x100, val=-1, utime=0x0, uaddr2=0x7f8abb1fd000, val3=0xffffefff) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab90f2000, op=0x100, val=232, utime=0x0, uaddr2=0x7f8ab92f3000, val3=0xe0f7c073e6a2ea) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab97f3000, op=0x0, val=1024, utime=0x7f8ab92f3000, uaddr2=0x7f8ab96f3000, val3=0xffffffffbdbdbdbd) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab94f3000, op=0x100, val=255, utime=0x1, uaddr2=0x7f8ab90f0000, val3=0xffffffffffffad70) = -1 (Bad address)
+futex(uaddr=0x7f8abb1fb000, op=0x100, val=0x2800000208440406, utime=0x1, uaddr2=0x7f8abb1fd000, val3=0xffffffff80000000) = -1 (Bad address)
+futex(uaddr=0x7f8ab90f2000, op=0x100, val=-4, utime=0x7f8ab90ef000, uaddr2=0x7f8ab92f3000, val3=0x49677e896552400e) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002ce0, op=0x5, val=1, utime=0x0, uaddr2=0x55ff6d002920, val3=3) = 0
+futex(uaddr=0x55ff6d002d80, op=0x6, val=0xb000, utime=0x7f8ab90f3000, uaddr2=0x55ff6d002b00, val3=-6) = -1 (No such process)
+futex(uaddr=0x7f8ab98f3000, op=0x1, val=-2, utime=0x7f8ab96f3000, uaddr2=0x7f8abb1fc000, val3=126) = 0
+futex(uaddr=0x7f8ab92f3000, op=0x2, val=-10, utime=0x7f8ab90ee000, uaddr2=0x7f8ab98f3000, val3=0x1a51091012882b0e) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab97f3000, op=0x2, val=0x73a21b20, utime=0x7f8ab98f3000, uaddr2=0x7f8ab98f3000, val3=90) = -1 (Function not implemented)
+futex(uaddr=0x7f8abb1fc000, op=0x2, val=0x10000, utime=0x1, uaddr2=0x7f8abb1fd000, val3=0x400000) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d0029c0, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x55ff6d002d80, val3=-6) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab97f3000, op=0x2, val=-2, utime=0x4, uaddr2=0x7f8ab94f3000, val3=0x9000100) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab92f3000, op=0x2, val=0xffffff99, utime=0x7f8ab92f3000, uaddr2=0x7f8ab94f3000, val3=0xdcf5753f0952) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab94f3000, op=0x2, val=94, utime=0x7f8ab90ee000, uaddr2=0x7f8abb1fc000, val3=0x8622021b28ca) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d0029c0, op=0x6, val=-8, utime=0x7f8ab92f3000, uaddr2=0x55ff6d002740, val3=0x71231ff695c7039) = -1 (No such process)
+futex(uaddr=0x7f8ab97f3000, op=0x2, val=0xff1698f0fb362e27, utime=0x7f8ab92f3000, uaddr2=0x7f8ab90f0000, val3=0) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002a60, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x55ff6d002880, val3=-5) = 0
+futex(uaddr=0x7f8ab92f3000, op=0x3, val=0xee2a3f0ebf67, utime=0x7f8abb1fb000, uaddr2=0x7f8abb1fb000, val3=0xfffffffffff80000) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab92f3000, op=0x3, val=0x1001a0291a3f, utime=0x4, uaddr2=0x7f8ab97f3000, val3=0x2311008) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab90f1000, op=0x3, val=0x15151515, utime=0x7f8ab92f3000, uaddr2=0x7f8abb1fb000, val3=0) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab94f3000, op=0x3, val=0x6e8708571342, utime=0x0, uaddr2=0x7f8abb1fb000, val3=0xffffffffffbbffff) = 0
+futex(uaddr=0x7f8ab92f3000, op=0x4, val=181, utime=0x4, uaddr2=0x7f8ab90f3000, val3=15) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab92f3000, op=0x4, val=-6, utime=0x7f8ab92f3000, uaddr2=0x7f8ab92f3000, val3=0x14088cd911204) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab90f1000, op=0x4, val=0xff28, utime=0x1, uaddr2=0x7f8abb1fb000, val3=0x84000400) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab98f3000, op=0x4, val=0x14109000009000, utime=0x0, uaddr2=0x7f8abb1fc000, val3=-161) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d002ce0, op=0x100, val=1, utime=0x1, uaddr2=0x55ff6d002740, val3=0xff62b952b4790e61) = -1 (Bad address)
+futex(uaddr=0x7f8abb1fd000, op=0x4, val=0xa9ba33260bd71d, utime=0x4, uaddr2=0x7f8abb1fd000, val3=0x2ae7703ca4d574) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d0027e0, op=0x10b, val=0, utime=0x8, uaddr2=0x55ff6d0029c0, val3=0xdfdfdfdf) = -1 (Bad address)
+futex(uaddr=0x55ff6d002ce0, op=0x100, val=1, utime=0x0, uaddr2=0x55ff6d002740, val3=0x52525252) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002740, op=0x10b, val=0, utime=0x7f8ab94f3000, uaddr2=0x55ff6d002ba0, val3=0xafaf) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d002c40, op=0x5, val=1, utime=0x7f8ab97f3000, uaddr2=0x55ff6d002740, val3=1) = 0
+futex(uaddr=0x55ff6d0029c0, op=0x6, val=0xff10, utime=0x0, uaddr2=0x55ff6d0029c0, val3=9766) = -1 (No such process)
+futex(uaddr=0x7f8ab97f3000, op=0x5, val=19, utime=0x0, uaddr2=0x7f8ab90f2000, val3=0xfffffffe) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002740, op=0xc, val=0x7fffffff, utime=0x7f8ab92f3000, uaddr2=0x55ff6d002740, val3=0x4000026) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002a60, op=0x80, val=1, utime=0x8, uaddr2=0x55ff6d002740, val3=0x10100000) = -1 (Bad address)
+futex(uaddr=0x7f8ab98f3000, op=0x5, val=512, utime=0x8, uaddr2=0x7f8abb1fc000, val3=128) = 0
+futex(uaddr=0x7f8ab96f3000, op=0x6, val=0x80000020, utime=0x7f8abb1fb000, uaddr2=0x7f8abb1fd000, val3=0x98fc888c80401b) = -1 (No such process)
+futex(uaddr=0x55ff6d002880, op=0x10b, val=0, utime=0x8, uaddr2=0x55ff6d002920, val3=-4) = -1 (Bad address)
+futex(uaddr=0x7f8ab96f3000, op=0x6, val=206, utime=0x7f8ab90ee000, uaddr2=0x7f8ab90f3000, val3=-8) = -1 (No such process)
+futex(uaddr=0x7f8ab90f3000, op=0x6, val=255, utime=0x8, uaddr2=0x7f8abb1fb000, val3=0xffffdffe) = -1 (Bad address)
+futex(uaddr=0x7f8ab94f3000, op=0x6, val=195, utime=0x8, uaddr2=0x7f8ab96f3000, val3=512) = -1 (Bad address)
+futex(uaddr=0x55ff6d002660, op=0x5, val=1, utime=0x1, uaddr2=0x55ff6d002c40, val3=3) = 0
+futex(uaddr=0x55ff6d002ce0, op=0x5, val=1, utime=0x8, uaddr2=0x55ff6d002d80, val3=2) = 0
+futex(uaddr=0x7f8ab96f3000, op=0x8, val=2048, utime=0x1, uaddr2=0x7f8ab90f2000, val3=-2) = -1 (No such process)
+futex(uaddr=0x7f8abb1fc000, op=0x8, val=16384, utime=0x1, uaddr2=0x7f8ab96f3000, val3=0xbbf0c000) = 0
+futex(uaddr=0x7f8abb1fb000, op=0x9, val=0x490000c6, utime=0x4, uaddr2=0x7f8ab92f3000, val3=0x200c020313202908) = -1 (Bad address)
+futex(uaddr=0x7f8ab97f3000, op=0x9, val=0x8000, utime=0x4, uaddr2=0x7f8ab90f0000, val3=6) = -1 (Bad address)
+futex(uaddr=0x55ff6d0029c0, op=0x10b, val=0, utime=0x0, uaddr2=0x55ff6d002b00, val3=0xffffffff50505051) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab92f3000, op=0x9, val=0xffffffff9f9f9f9f, utime=0x7f8ab90f1000, uaddr2=0x7f8ab94f3000, val3=-5) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d002d80, op=0x9, val=0xfff9, utime=0x1, uaddr2=0x55ff6d002660, val3=0xff0b) = -1 (Bad address)
+futex(uaddr=0x55ff6d002ce0, op=0x5, val=1, utime=0x8, uaddr2=0x55ff6d002d80, val3=6) = 0
+futex(uaddr=0x7f8ab97f3000, op=0xa, val=0xffffffc48dc23d90, utime=0x7f8abb1fc000, uaddr2=0x7f8ab90f1000, val3=240) = 0
+futex(uaddr=0x7f8abb1fb000, op=0xb, val=0x80000000, utime=0x1, uaddr2=0x7f8ab92f3000, val3=123) = -1 (Bad address)
+futex(uaddr=0x55ff6d002920, op=0xb, val=0x4000000000000008, utime=0x0, uaddr2=0x55ff6d002740, val3=0x68000020) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab90f2000, op=0x10b, val=8192, utime=0x1, uaddr2=0x7f8ab90f0000, val3=0x62605148204e85) = -1 (Bad address)
+futex(uaddr=0x55ff6d002880, op=0xc, val=0x7fffffff, utime=0x1, uaddr2=0x55ff6d002c40, val3=0xffffffff9c9c9c9d) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d0029c0, op=0x6, val=0xff000, utime=0x1, uaddr2=0x55ff6d0029c0, val3=-145) = -1 (Bad address)
+futex(uaddr=0x55ff6d002d80, op=0x1, val=0x7fffffff, utime=0x7f8ab90ee000, uaddr2=0x55ff6d002880, val3=2048) = 0
+futex(uaddr=0x55ff6d002920, op=0xc, val=0, utime=0x8, uaddr2=0x55ff6d0027e0, val3=0xfffc) = -1 (Invalid argument)
+futex(uaddr=0x7f8abb1fb000, op=0xc, val=0x10000000, utime=0x7f8ab94f3000, uaddr2=0x7f8ab97f3000, val3=0x10000000) = -1 (Invalid argument)
+futex(uaddr=0x7f8abb1fb000, op=0xc, val=64, utime=0x4, uaddr2=0x7f8ab97f3000, val3=2295) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab96f3000, op=0xc, val=0x14058c3c97ce2e00, utime=0x1, uaddr2=0x7f8abb1fd000, val3=-3) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab94f3000, op=0xc, val=0xffff, utime=0x7f8ab97f3000, uaddr2=0x7f8ab90f3000, val3=0xffff) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d0029c0, op=0xb, val=0, utime=0x8, uaddr2=0x55ff6d002c40, val3=0xffffffffffefffff) = -1 (Bad address)
+futex(uaddr=0x7f8ab96f3000, op=0xc, val=180, utime=0x7f8abb1fc000, uaddr2=0x7f8ab90f3000, val3=0x48406fc04280e825) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002a60, op=0x6, val=255, utime=0x8, uaddr2=0x55ff6d002d80, val3=1) = -1 (Bad address)
+futex(uaddr=0x55ff6d002a60, op=0x6, val=111, utime=0x7f8ab97f3000, uaddr2=0x55ff6d002a60, val3=89) = -1 (No such process)
+futex(uaddr=0x7f8ab94f3000, op=0xc, val=-1, utime=0x1, uaddr2=0x7f8ab90f3000, val3=0x8000) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab90f1000, op=0xc, val=4464, utime=0x7f8ab90f2000, uaddr2=0x7f8ab90f0000, val3=0x4d639b4339cc4552) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002b00, op=0xb, val=0, utime=0x7f8ab90f1000, uaddr2=0x55ff6d002880, val3=0) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d002880, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x55ff6d002920, val3=0xffff) = 0
+futex(uaddr=0x7f8abb1fc000, op=0x180, val=0xb6ead000, utime=0x7f8ab90f0000, uaddr2=0x7f8ab90f1000, val3=0x988d0991a416) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab96f3000, op=0x180, val=2257, utime=0x7f8ab90ef000, uaddr2=0x7f8ab98f3000, val3=0xafd4473a93a4d8) = -1 (Function not implemented)
+futex(uaddr=0x7f8ab97f3000, op=0x80, val=0x4000000, utime=0x0, uaddr2=0x7f8ab90f3000, val3=0x14284851080004) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab90f2000, op=0x180, val=0x40000067, utime=0x0, uaddr2=0x7f8ab90f2000, val3=0x84000034) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002b00, op=0x5, val=1, utime=0x7f8abb1fc000, uaddr2=0x55ff6d002ba0, val3=7) = 0
+futex(uaddr=0x7f8ab90f1000, op=0x81, val=0x10000, utime=0x7f8ab98f3000, uaddr2=0x7f8ab92f3000, val3=182) = 0
+futex(uaddr=0x55ff6d002740, op=0x1, val=0x7fffffff, utime=0x1, uaddr2=0x55ff6d002d80, val3=0) = 0
+futex(uaddr=0x55ff6d002a60, op=0x180, val=1, utime=0x0, uaddr2=0x55ff6d0027e0, val3=0x800000) = -1 (Function not implemented)
+futex(uaddr=0x55ff6d002a60, op=0xb, val=0, utime=0x7f8ab90ee000, uaddr2=0x55ff6d002740, val3=0x90909090) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d002a60, op=0xc, val=0x7fffffff, utime=0x1, uaddr2=0x55ff6d0027e0, val3=0xd7d7d7d7) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002920, op=0x84, val=0x80808080, utime=0x1, uaddr2=0x55ff6d002920, val3=148) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab90f0000, op=0x84, val=0xb3b3b3b3, utime=0x8, uaddr2=0x7f8ab98f3000, val3=184) = -1 (Invalid argument)
+futex(uaddr=0x7f8ab96f3000, op=0x84, val=0, utime=0x0, uaddr2=0x7f8abb1fc000, val3=4096) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab90f1000, op=0x84, val=0xffffffff00000003, utime=0x7f8abb1fb000, uaddr2=0x7f8ab90f1000, val3=-39) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002660, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x55ff6d002880, val3=0x4000000) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d0027e0, op=0x6, val=0x10000, utime=0x7f8ab96f3000, uaddr2=0x55ff6d002ba0, val3=0x10000) = -1 (No such process)
+futex(uaddr=0x7f8ab90f1000, op=0x84, val=204, utime=0x7f8ab90ee000, uaddr2=0x7f8ab90f1000, val3=0xfffc) = -1 (Invalid argument)
+futex(uaddr=0x55ff6d002c40, op=0xb, val=0, utime=0x8, uaddr2=0x55ff6d002b00, val3=0x18416dc1) = -1 (Bad address)
+futex(uaddr=0x55ff6d002a60, op=0x1, val=0x7fffffff, utime=0x0, uaddr2=0x55ff6d0029c0, val3=-4) = 0
+futex(uaddr=0x7f8ab90f3000, op=0x85, val=52, utime=0x0, uaddr2=0x7f8ab90f0000, val3=0x20000000) = 0
+futex(uaddr=0x7f8ab90f2000, op=0x86, val=0xffffffff90909091, utime=0x7f8ab90ef000, uaddr2=0x7f8ab90f0000, val3=4096) = 0
+futex(uaddr=0x7f8abb1fc000, op=0x87, val=4, utime=0x7f8ab92f3000, uaddr2=0x7f8ab96f3000, val3=0xe8e8e8e8) = 0
+futex(uaddr=0x55ff6d002660, op=0x1, val=0x7fffffff, utime=0x7f8ab92f3000, uaddr2=0x55ff6d0029c0, val3=250) = 0
+futex(uaddr=0x7f8ab90f0000, op=0x89, val=237, utime=0x0, uaddr2=0x7f8ab98f3000, val3=0x440046) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f8ab97f3000, op=0x89, val=0x8a076a56d757, utime=0x0, uaddr2=0x7f8ab90f1000, val3=0xffff) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x55ff6d0027e0, op=0x1, val=0x7fffffff, utime=0x7f8ab94f3000, uaddr2=0x55ff6d002c40, val3=-4) = 0
+futex(uaddr=0x55ff6d0029c0, op=0x1, val=0x7fffffff, utime=0x7f8ab92f3000, uaddr2=0x55ff6d002880, val3=0xbbbbbbbb) = 0
+futex(uaddr=0x55ff6d0027e0, op=0x5, val=1, utime=0x7f8ab92f3000, uaddr2=0x55ff6d002ba0, val3=5) = 0
+futex(uaddr=0x55ff6d002a60, op=0x1, val=0x7fffffff, utime=0x7f8ab90ef000, uaddr2=0x55ff6d0029c0, val3=219) = 0
+futex(uaddr=0x7f7b5da58000, op=0x0, val=0x8200080027, utime=0x7f7b5da59000, uaddr2=0x7f7b5b950000, val3=0) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09a60, op=0xb, val=0, utime=0x0, uaddr2=0x56495ef097e0, val3=0x20020) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09d80, op=0x1, val=0x7fffffff, utime=0x7f7b5b94b000, uaddr2=0x56495ef09d80, val3=0xffffffff6e6e6e6e) = 0
+futex(uaddr=0x7f7b5bf50000, op=0x1, val=0x5050505, utime=0x0, uaddr2=0x7f7b5b94f000, val3=0x4d000000) = 0
+futex(uaddr=0x56495ef09b00, op=0x1, val=0x7fffffff, utime=0x1, uaddr2=0x56495ef09ba0, val3=64) = 0
+futex(uaddr=0x7f7b5b94f000, op=0x3, val=0x80000000, utime=0x0, uaddr2=0x7f7b5bf50000, val3=63) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5bd50000, op=0x3, val=0x400402504000, utime=0x0, uaddr2=0x7f7b5bf50000, val3=0x9fc96a0c3b5b) = 0
+futex(uaddr=0x7f7b5b950000, op=0x4, val=202, utime=0x7f7b5da5a000, uaddr2=0x7f7b5bb50000, val3=2048) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09920, op=0x6, val=0x218104000000010, utime=0x0, uaddr2=0x56495ef09660, val3=25) = -1 (No such process)
+futex(uaddr=0x7f7b5bd50000, op=0x4, val=0xffffff6b, utime=0x0, uaddr2=0x7f7b5c150000, val3=0xdf80) = -1 (Invalid argument)
+futex(uaddr=0x56495ef097e0, op=0x6, val=0xa7a7, utime=0x7f7b5da58000, uaddr2=0x56495ef09d80, val3=1024) = -1 (No such process)
+futex(uaddr=0x7f7b5bd50000, op=0x4, val=1024, utime=0x7f7b5b94b000, uaddr2=0x7f7b5b94d000, val3=0x20000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5c050000, op=0x4, val=0x4d1d5a1bd946, utime=0x7f7b5c050000, uaddr2=0x7f7b5c150000, val3=-5) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5b94e000, op=0x4, val=0, utime=0x7f7b5bb50000, uaddr2=0x7f7b5bb50000, val3=512) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09b00, op=0xc, val=0x7fffffff, utime=0x4, uaddr2=0x56495ef09880, val3=0x1050006b) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5b94e000, op=0x4, val=0x100000, utime=0x4, uaddr2=0x7f7b5c150000, val3=0x54545000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5da58000, op=0x4, val=0x410220984848, utime=0x1, uaddr2=0x7f7b5da59000, val3=136) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5da59000, op=0x4, val=0x20000, utime=0x7f7b5b94c000, uaddr2=0x7f7b5da59000, val3=-5) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5b94e000, op=0x4, val=-4, utime=0x8, uaddr2=0x7f7b5bb50000, val3=255) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5b94f000, op=0x4, val=68, utime=0x7f7b5bb50000, uaddr2=0x7f7b5bb50000, val3=144) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5b950000, op=0x4, val=0xfffffffe, utime=0x7f7b5b94b000, uaddr2=0x7f7b5c150000, val3=0x4158c488) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5bd50000, op=0x4, val=0, utime=0x1, uaddr2=0x7f7b5b94d000, val3=-8192) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5bb50000, op=0x4, val=0xa4a4a4a4, utime=0x4, uaddr2=0x7f7b5da5a000, val3=0x4684) = -1 (Invalid argument)
+futex(uaddr=0x56495ef09740, op=0xb, val=0, utime=0x0, uaddr2=0x56495ef09880, val3=0x208000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09740, op=0x5, val=1, utime=0x8, uaddr2=0x56495ef09880, val3=4) = 0
+futex(uaddr=0x56495ef09660, op=0x6, val=-8, utime=0x8, uaddr2=0x56495ef09d80, val3=0x40000) = -1 (Bad address)
+futex(uaddr=0x7f7b5c050000, op=0x5, val=8192, utime=0x7f7b5bb50000, uaddr2=0x7f7b5bd50000, val3=0x4080002) = 0
+futex(uaddr=0x56495ef09b00, op=0x5, val=1, utime=0x8, uaddr2=0x56495ef09740, val3=5) = 0
+futex(uaddr=0x56495ef09a60, op=0x5, val=1, utime=0x7f7b5bd50000, uaddr2=0x56495ef09880, val3=6) = 0
+futex(uaddr=0x7f7b5b94d000, op=0x8, val=1530, utime=0x8, uaddr2=0x7f7b5da58000, val3=191) = 0
+futex(uaddr=0x56495ef09d80, op=0x80, val=1, utime=0x8, uaddr2=0x56495ef09b00, val3=0x8000) = -1 (Bad address)
+futex(uaddr=0x56495ef09ce0, op=0x0, val=1, utime=0x7f7b5b950000, uaddr2=0x56495ef09660, val3=63) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09c40, op=0x1, val=0x7fffffff, utime=0x1, uaddr2=0x56495ef09ce0, val3=172) = 0
+futex(uaddr=0x56495ef09920, op=0xb, val=0, utime=0x0, uaddr2=0x56495ef09880, val3=0x5c808000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5bb50000, op=0xa, val=-10, utime=0x1, uaddr2=0x7f7b5bd50000, val3=-7) = 0
+futex(uaddr=0x56495ef099c0, op=0xb, val=0, utime=0x8, uaddr2=0x56495ef09c40, val3=0x8c0100328125808) = -1 (Bad address)
+futex(uaddr=0x56495ef09920, op=0x5, val=1, utime=0x1, uaddr2=0x56495ef099c0, val3=1) = 0
+futex(uaddr=0x7f7b5b950000, op=0xc, val=139, utime=0x0, uaddr2=0x7f7b5b94d000, val3=-1) = -1 (Invalid argument)
+futex(uaddr=0x56495ef09920, op=0xc, val=0x7fffffff, utime=0x0, uaddr2=0x56495ef09a60, val3=32) = -1 (Invalid argument)
+futex(uaddr=0x56495ef09920, op=0x5, val=1, utime=0x7f7b5bb50000, uaddr2=0x56495ef09c40, val3=3) = 0
+futex(uaddr=0x7f7b5da5a000, op=0x80, val=29, utime=0x0, uaddr2=0x7f7b5b94d000, val3=0x6dc4f7b756ced6ff) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09ba0, op=0xb, val=0, utime=0x8, uaddr2=0x56495ef099c0, val3=0xff94) = -1 (Bad address)
+futex(uaddr=0x7f7b5bf50000, op=0x180, val=0x2000010824, utime=0x7f7b5c150000, uaddr2=0x7f7b5b94f000, val3=0x45000000) = -1 (Function not implemented)
+futex(uaddr=0x56495ef09d80, op=0x6, val=0x1619b3f05d4f0d57, utime=0x7f7b5c150000, uaddr2=0x56495ef09ce0, val3=204) = -1 (No such process)
+futex(uaddr=0x56495ef09660, op=0x5, val=1, utime=0x7f7b5b94b000, uaddr2=0x56495ef09740, val3=5) = 0
+futex(uaddr=0x56495ef09b00, op=0xb, val=0, utime=0x7f7b5da5a000, uaddr2=0x56495ef09880, val3=0xf9f9f9f9) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5da58000, op=0x81, val=3598, utime=0x7f7b5c050000, uaddr2=0x7f7b5da5a000, val3=0x2000000) = 0
+futex(uaddr=0x56495ef09b00, op=0x6, val=-5, utime=0x7f7b5bb50000, uaddr2=0x56495ef09c40, val3=0x3b3244d094) = -1 (No such process)
+futex(uaddr=0x7f7b5da59000, op=0x83, val=47, utime=0x0, uaddr2=0x7f7b5b94d000, val3=9396) = 0
+futex(uaddr=0x7f7b5b94d000, op=0x84, val=0xffffff95c9083b21, utime=0x7f7b5b950000, uaddr2=0x7f7b5da58000, val3=255) = -1 (Invalid argument)
+futex(uaddr=0x56495ef09ba0, op=0xb, val=0, utime=0x0, uaddr2=0x56495ef097e0, val3=0x40000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef097e0, op=0x1, val=0x7fffffff, utime=0x8, uaddr2=0x56495ef097e0, val3=0x8364d026598e1f) = 0
+futex(uaddr=0x7f7b5b94d000, op=0x85, val=0x2088922210412102, utime=0x0, uaddr2=0x7f7b5da5a000, val3=0xd4e00152c) = -1 (Function not implemented)
+futex(uaddr=0x56495ef09ba0, op=0x5, val=1, utime=0x0, uaddr2=0x56495ef099c0, val3=1) = 0
+futex(uaddr=0x56495ef099c0, op=0xc, val=0x7fffffff, utime=0x7f7b5b950000, uaddr2=0x56495ef09b00, val3=0xd6c69b728af) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5bf50000, op=0x86, val=0x8000, utime=0x7f7b5c050000, uaddr2=0x7f7b5da59000, val3=0xffff) = 0
+futex(uaddr=0x7f7b5b94e000, op=0x87, val=0x480800062804, utime=0x4, uaddr2=0x7f7b5da59000, val3=0x100000) = -1 (Operation not permitted)
+futex(uaddr=0x56495ef099c0, op=0xb, val=0, utime=0x7f7b5b94e000, uaddr2=0x56495ef09ce0, val3=0x39393939) = -1 (Connection timed out)
+futex(uaddr=0x7f7b5b950000, op=0x87, val=-6, utime=0x8, uaddr2=0x7f7b5bf50000, val3=0xfffffffa) = -1 (Operation not permitted)
+futex(uaddr=0x56495ef09b00, op=0x5, val=1, utime=0x8, uaddr2=0x56495ef09ce0, val3=5) = 0
+futex(uaddr=0x7f7b5b94e000, op=0x88, val=-7, utime=0x8, uaddr2=0x7f7b5da58000, val3=-1) = 0
+futex(uaddr=0x56495ef09920, op=0x180, val=1, utime=0x0, uaddr2=0x56495ef09920, val3=16384) = -1 (Function not implemented)
+futex(uaddr=0x56495ef09920, op=0x1, val=0x7fffffff, utime=0x4, uaddr2=0x56495ef09ce0, val3=84) = 0
+futex(uaddr=0x56495ef09c40, op=0xb, val=0, utime=0x7f7b5b950000, uaddr2=0x56495ef099c0, val3=0x40000000) = -1 (Connection timed out)
+futex(uaddr=0x7f7b5da5a000, op=0x8a, val=0x442ead0d668653, utime=0x7f7b5b94c000, uaddr2=0x7f7b5c050000, val3=-5) = 0
+futex(uaddr=0x56495ef097e0, op=0x6, val=0x20000, utime=0x7f7b5b94b000, uaddr2=0x56495ef09880, val3=0xc0f9f000) = -1 (No such process)
+futex(uaddr=0x56495ef09d80, op=0xb, val=0, utime=0x7f7b5c150000, uaddr2=0x56495ef09d80, val3=0xffffffcc) = -1 (Invalid argument)
+futex(uaddr=0x7f7b5bf50000, op=0x8b, val=0xe88b, utime=0x7f7b5da59000, uaddr2=0x7f7b5b94d000, val3=0x28a00030200) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f7b5da59000, op=0x8b, val=-9, utime=0x0, uaddr2=0x7f7b5bb50000, val3=0xffffffff) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x56495ef09c40, op=0x5, val=1, utime=0x0, uaddr2=0x56495ef09a60, val3=7) = 0
+futex(uaddr=0x7f7b5da5a000, op=0x100, val=7, utime=0x0, uaddr2=0x7f7b5bf50000, val3=0xae2e9c24fc) = -1 (Function not implemented)
+futex(uaddr=0x7f01db409000, op=0x100, val=248, utime=0x0, uaddr2=0x7f01db406000, val3=0xe0e0e0e0) = -1 (Function not implemented)
+futex(uaddr=0x7f01db809000, op=0x100, val=0x1800800000, utime=0x4, uaddr2=0x7f01db409000, val3=0x1000000) = -1 (Bad address)
+futex(uaddr=0x7f01dd511000, op=0x0, val=0xffffe000, utime=0x8, uaddr2=0x7f01db609000, val3=255) = -1 (Bad address)
+futex(uaddr=0x7f01db406000, op=0x100, val=1916, utime=0x0, uaddr2=0x7f01db609000, val3=0x14591916d4) = -1 (Function not implemented)
+futex(uaddr=0x7f01db609000, op=0x0, val=32, utime=0x0, uaddr2=0x7f01db409000, val3=0xffffefff) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5606d5e7cc40, op=0x80, val=1, utime=0x4, uaddr2=0x5606d5e7c920, val3=0x40000404e00202) = -1 (Bad address)
+futex(uaddr=0x7f01dbc09000, op=0x0, val=0x7aa576176a1e164c, utime=0x1, uaddr2=0x7f01dd513000, val3=16384) = -1 (Bad address)
+futex(uaddr=0x5606d5e7cce0, op=0x5, val=1, utime=0x7f01dd512000, uaddr2=0x5606d5e7cba0, val3=7) = 0
+futex(uaddr=0x7f01dd512000, op=0x1, val=0x10000100, utime=0x7f01dbc09000, uaddr2=0x7f01db406000, val3=8192) = 0
+futex(uaddr=0x5606d5e7c740, op=0x6, val=4096, utime=0x0, uaddr2=0x5606d5e7cc40, val3=0x8a8a8a8a) = -1 (No such process)
+futex(uaddr=0x7f01dd513000, op=0x2, val=0x96969696, utime=0x7f01dbb09000, uaddr2=0x7f01dd512000, val3=16) = -1 (Function not implemented)
+futex(uaddr=0x7f01db407000, op=0x2, val=0x1010101, utime=0x1, uaddr2=0x7f01db408000, val3=0x2000000) = -1 (Function not implemented)
+futex(uaddr=0x5606d5e7cba0, op=0x2, val=0xffff, utime=0x7f01db407000, uaddr2=0x5606d5e7c740, val3=-5) = -1 (Function not implemented)
+futex(uaddr=0x5606d5e7cd80, op=0x0, val=1, utime=0x8, uaddr2=0x5606d5e7c660, val3=0xffff7000) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c9c0, op=0x1, val=0x7fffffff, utime=0x8, uaddr2=0x5606d5e7c920, val3=0x36be02a50dc23bb7) = 0
+futex(uaddr=0x7f01dd512000, op=0x3, val=0x484a0167a015, utime=0x7f01dbc09000, uaddr2=0x7f01db407000, val3=0x4412f4923100) = -1 (Invalid argument)
+futex(uaddr=0x5606d5e7ca60, op=0x5, val=1, utime=0x7f01db809000, uaddr2=0x5606d5e7cb00, val3=7) = 0
+futex(uaddr=0x5606d5e7cd80, op=0xc, val=0x7fffffff, utime=0x7f01db409000, uaddr2=0x5606d5e7cb00, val3=0xffffffff7effff31) = -1 (Invalid argument)
+futex(uaddr=0x7f01dbb09000, op=0x4, val=0x4848, utime=0x4, uaddr2=0x7f01db408000, val3=0xf9f9f9f9) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01db809000, op=0x4, val=0x55555555, utime=0x4, uaddr2=0x7f01dbc09000, val3=-10) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01dba09000, op=0x4, val=114, utime=0x7f01dd511000, uaddr2=0x7f01db609000, val3=0x202021802a000) = -1 (Invalid argument)
+futex(uaddr=0x7f01db407000, op=0x4, val=0x64646464, utime=0x0, uaddr2=0x7f01dd513000, val3=-570) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01dbb09000, op=0x4, val=0x70001061, utime=0x7f01db408000, uaddr2=0x7f01db406000, val3=0x884b0c862f952c1) = -1 (Invalid argument)
+futex(uaddr=0x5606d5e7c740, op=0x5, val=1, utime=0x7f01db609000, uaddr2=0x5606d5e7cc40, val3=3) = 0
+futex(uaddr=0x7f01dba09000, op=0x5, val=0x6000054, utime=0x7f01db409000, uaddr2=0x7f01db408000, val3=-3) = -1 (Function not implemented)
+futex(uaddr=0x5606d5e7ca60, op=0xb, val=0, utime=0x7f01db407000, uaddr2=0x5606d5e7c9c0, val3=0x8000) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x5606d5e7c880, op=0x0, val=1, utime=0x1, uaddr2=0x5606d5e7c660, val3=23) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c7e0, op=0x100, val=1, utime=0x4, uaddr2=0x5606d5e7cb00, val3=0x72fb7000) = -1 (Bad address)
+futex(uaddr=0x5606d5e7cc40, op=0x5, val=0x40000000, utime=0x7f01db409000, uaddr2=0x5606d5e7c920, val3=128) = 0
+futex(uaddr=0x5606d5e7cb00, op=0x5, val=1, utime=0x0, uaddr2=0x5606d5e7c920, val3=7) = 0
+futex(uaddr=0x7f01db809000, op=0x7, val=0xb7762bd0c202, utime=0x8, uaddr2=0x7f01dd511000, val3=40) = -1 (Operation not permitted)
+futex(uaddr=0x7f01db609000, op=0x7, val=0x210000f9, utime=0x7f01db609000, uaddr2=0x7f01dd511000, val3=0xf955b36319) = -1 (Operation not permitted)
+futex(uaddr=0x7f01dba09000, op=0x7, val=-9, utime=0x7f01db408000, uaddr2=0x7f01db609000, val3=57) = -1 (Operation not permitted)
+futex(uaddr=0x5606d5e7cce0, op=0xc, val=0x7fffffff, utime=0x1, uaddr2=0x5606d5e7cc40, val3=2076) = -1 (Invalid argument)
+futex(uaddr=0x5606d5e7c9c0, op=0x6, val=-2, utime=0x4, uaddr2=0x5606d5e7c880, val3=0x10010000000) = -1 (Bad address)
+futex(uaddr=0x5606d5e7cd80, op=0x6, val=164, utime=0x7f01dd513000, uaddr2=0x5606d5e7c660, val3=0x976eddb243) = -1 (No such process)
+futex(uaddr=0x7f01dbc09000, op=0x7, val=15934, utime=0x7f01db809000, uaddr2=0x7f01dbc09000, val3=0x40000) = -1 (Operation not permitted)
+futex(uaddr=0x7f01dd511000, op=0x7, val=0xed8fad2fa3faf323, utime=0x7f01dd511000, uaddr2=0x7f01db809000, val3=256) = -1 (Operation not permitted)
+futex(uaddr=0x5606d5e7c9c0, op=0x10b, val=0, utime=0x7f01dbc09000, uaddr2=0x5606d5e7c920, val3=-5) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01dd513000, op=0x7, val=0x1000000, utime=0x1, uaddr2=0x7f01dbc09000, val3=-4) = -1 (Operation not permitted)
+futex(uaddr=0x5606d5e7cce0, op=0x6, val=0xcba26c6db4665f, utime=0x4, uaddr2=0x5606d5e7c880, val3=74) = -1 (Bad address)
+futex(uaddr=0x7f01dd511000, op=0x8, val=185, utime=0x7f01db609000, uaddr2=0x7f01db406000, val3=0x5090) = -1 (Resource deadlock avoided)
+futex(uaddr=0x5606d5e7c880, op=0x1, val=0x7fffffff, utime=0x7f01db809000, uaddr2=0x5606d5e7c660, val3=0x9818113424c520) = 0
+futex(uaddr=0x5606d5e7c920, op=0x109, val=0x1000000, utime=0x4, uaddr2=0x5606d5e7c9c0, val3=0x800100010000900) = -1 (Bad address)
+futex(uaddr=0x7f01db409000, op=0x109, val=0x100000, utime=0x0, uaddr2=0x7f01db609000, val3=0xc0b814275c9f) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01db609000, op=0x9, val=93, utime=0x4, uaddr2=0x7f01dbb09000, val3=0xffff) = -1 (Bad address)
+futex(uaddr=0x7f01dbb09000, op=0x9, val=0xf1919191, utime=0x8, uaddr2=0x7f01db409000, val3=16) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c7e0, op=0x5, val=1, utime=0x7f01db609000, uaddr2=0x5606d5e7cb00, val3=6) = 0
+futex(uaddr=0x5606d5e7c920, op=0x5, val=1, utime=0x4, uaddr2=0x5606d5e7cba0, val3=6) = 0
+futex(uaddr=0x5606d5e7ca60, op=0x6, val=0xffffffffffff3fff, utime=0x8, uaddr2=0x5606d5e7ca60, val3=0x6000) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c9c0, op=0x6, val=0xffffffff3a3a3a3a, utime=0x8, uaddr2=0x5606d5e7c7e0, val3=0x9112716c2c666e) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c880, op=0x10b, val=0, utime=0x7f01dbc09000, uaddr2=0x5606d5e7c740, val3=1) = -1 (Connection timed out)
+futex(uaddr=0x7f01db407000, op=0xb, val=194, utime=0x7f01db409000, uaddr2=0x7f01db408000, val3=0x382c617a8491) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01db809000, op=0x10b, val=0xbdbdb000, utime=0x1, uaddr2=0x7f01db407000, val3=-9) = -1 (Bad address)
+futex(uaddr=0x7f01db406000, op=0x10b, val=0x20000, utime=0x4, uaddr2=0x7f01db809000, val3=0x20000) = -1 (Bad address)
+futex(uaddr=0x5606d5e7c7e0, op=0xb, val=0, utime=0x7f01dbb09000, uaddr2=0x5606d5e7c740, val3=0xffff776edbddfa00) = -1 (Connection timed out)
+futex(uaddr=0x7f01dd512000, op=0xb, val=0x800000, utime=0x1, uaddr2=0x7f01dd511000, val3=0x800000) = -1 (Bad address)
+futex(uaddr=0x7f01db609000, op=0x10b, val=0x159e25badba5, utime=0x7f01db409000, uaddr2=0x7f01dd513000, val3=0x1020008256218c) = -1 (Resource temporarily unavailable)
+futex(uaddr=0x7f01dd512000, op=0xc, val=1024, utime=0x7f01db809000, uaddr2=0x7f01dba09000, val3=255) = -1 (Invalid argument)
+futex(uaddr=0x7f01dd513000, op=0xc, val=1413, utime=0x7f01dd513000, uaddr2=0x7f01dd513000, val3=0xffffffff0d0d1000) = -1 (Invalid argument)
+futex(uaddr=0x7f01db609000, op=0xc, val=0xffff, utime=0x0, uaddr2=0x7f01db406000, val3=0x203310c64101452) = -1 (Invalid argument)
+futex(uaddr=0x7f01dbb09000, op=0xc, val=0xfffffff6, utime=0x0, uaddr2=0x7f01db809000, val3=45) = -1 (Invalid argument)
+futex(uaddr=0x7f01db408000, op=0xc, val=0x7b717171, utime=0x8, uaddr2=0x7f01db406000, val3=0xffffefff) = -1 (Invalid argument)
+futex(uaddr=0x7f01db809000, op=0x180, val=-1, utime=0x1, uaddr2=0x7f01dbb09000, val3=0) = -1 (Bad address)
+futex(uaddr=0x5606d5e7cba0, op=0x180, val=179, utime=0x4, uaddr2=0x5606d5e7cba0, val3=0) = -1 (Bad address)
+futex(uaddr=0x7f01dbb09000, op=0x81, val=0xd3d3d3d3, utime=0x7f01dd513000, uaddr2=0x7f01db609000, val3=0xc546104a6fe390) = 0
+futex(uaddr=0x5606d5e7cce0, op=0x1, val=0x7fffffff, utime=0x7f01db409000, uaddr2=0x5606d5e7cce0, val3=4096) = 0
+futex(uaddr=0x7f01db406000, op=0x85, val=0x51f50000, utime=0x7f01db609000, uaddr2=0x7f01dd513000, val3=0xffff) = 0

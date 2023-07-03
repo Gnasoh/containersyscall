@@ -1,0 +1,5 @@
+landlock_add_rule(ruleset_fd=281, rule_type=0x55d2a78e651c, rule_attr=0x22313100ac, flags=0) = -1 (Function not implemented)
+landlock_add_rule(ruleset_fd=8, rule_type=0x5641993cd4f0, rule_attr=0xffffffffffff2000, flags=110) = -1 (Function not implemented)
+landlock_add_rule(ruleset_fd=289, rule_type=0x7f1cf6fb9cf0, rule_attr=-17, flags=250) = -1 (Function not implemented)
+landlock_add_rule(ruleset_fd=285, rule_type=0x562ff2c6a43a, rule_attr=5, flags=0xa400008e) = -1 (Function not implemented)
+landlock_add_rule(ruleset_fd=282, rule_type=0x555fc6c1c8bf, rule_attr=0xffffe000, flags=132) = -1 (Function not implemented)

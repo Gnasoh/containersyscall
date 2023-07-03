@@ -1,0 +1,9 @@
+fchown(fd=25, user=1024, group=0x7f7f7f7f) = 0
+fchown(fd=25, user=-5, group=0x75ae) = 0
+fchown(fd=13, user=0x6811908cb3286, group=0x32c6215128) = 0
+fchown(fd=337, user=-9, group=246) = 0
+fchown(fd=297, user=0xfffffff9, group=0xf5debc2cc34ad1) = 0
+fchown(fd=297, user=0x200000, group=-8) = 0
+fchown(fd=21, user=0xfff6, group=162) = 0
+fchown(fd=21, user=0x5c907d36fb414e, group=0x22cc1b4dd176d3) = 0
+fchown(fd=302, user=0xc1000020, group=0x2a4104c136) = 0

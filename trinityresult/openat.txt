@@ -1,0 +1,66 @@
+openat(dfd=283, filename="/sys/module/rcupdate/parameters/rcu_task_stall_timeout", flags=0x513c00, mode=666) = -1 (Invalid argument)
+openat(dfd=283, filename="/sys/devices/pci0000:00/0000:00:06.0/uevent", flags=0x591880, mode=666) = -1 (Invalid argument)
+openat(dfd=15, filename="/sys/devices/pci0000:00/0000:00:04.0", flags=0x555b80, mode=666) = -1 (Invalid argument)
+openat(dfd=15, filename="/sys/devices/pci0000:00/0000:00:1f.0/dma_mask_bits", flags=0x470700, mode=666) = -1 (Invalid argument)
+openat(dfd=15, filename="/proc/sys/net/ipv6/conf/lo/accept_redirects", flags=0x400, mode=0) = 420
+openat(dfd=15, filename="/sys/devices/virtual/block/loop0/queue/write_cache", flags=0x47b81, mode=0) = -1 (Read-only file system)
+openat(dfd=15, filename="/sys/firmware/acpi/interrupts/gpe02", flags=0x677501, mode=666) = -1 (Not a directory)
+openat(dfd=305, filename="/sys/devices/virtual/block/ram9/queue/discard_max_hw_bytes", flags=0x511601, mode=666) = -1 (Not a directory)
+openat(dfd=305, filename="/proc/irq/0/node", flags=0x413481, mode=666) = -1 (Not a directory)
+openat(dfd=305, filename="/sys/devices/virtual/block/ram14", flags=0x345701, mode=0) = 431
+openat(dfd=305, filename="/sys/module/scsi_mod/parameters/default_dev_flags", flags=0x1d7f02, mode=666) = -1 (Not a directory)
+openat(dfd=305, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0012:00/ndbus0/region0/namespace0.0/size", flags=0x6b6f82, mode=666) = -1 (Not a directory)
+openat(dfd=305, filename=".//proc/1/task/1/net/if_inet6/", flags=0x5b5202, mode=666) = -1 (Not a directory)
+openat(dfd=265, filename=".//proc/27441/attr/current/", flags=0x694c02, mode=666) = -1 (Not a directory)
+openat(dfd=265, filename="/proc/sys/kernel/shmall", flags=0x631282, mode=666) = -1 (Not a directory)
+openat(dfd=265, filename="/sys/bus/nd", flags=0x4f3b02, mode=666) = -1 (Read-only file system)
+openat(dfd=265, filename="/proc/sys/net/ipv6/conf/eth0/accept_redirects", flags=0x200082, mode=4010) = 446
+openat(dfd=285, filename="/sys/devices/LNXSYSTM:00/LNXPWRBN:00/hid", flags=0x391fc0, mode=666) = -1 (Not a directory)
+openat(dfd=285, filename="/sys/devices/virtual/block/ram10/queue/io_poll_delay", flags=0x2b4040, mode=666) = -1 (Not a directory)
+openat(dfd=285, filename="/sys/module/nf_conntrack", flags=0x40, mode=666) = -1 (Is a directory)
+openat(dfd=285, filename="/sys/devices/pci0000:00/0000:00:1f.2/broken_parity_status", flags=0x17a40, mode=666) = -1 (Not a directory)
+openat(dfd=285, filename="/proc/1/net/udp", flags=0x6f0d40, mode=666) = -1 (Not a directory)
+openat(dfd=285, filename="/sys/devices/virtual/block/loop0/queue/stable_writes", flags=0xd6940, mode=666) = -1 (Not a directory)
+openat(dfd=293, filename="/proc/sys/net/ipv4/neigh/eth0/proxy_delay", flags=0x5d3440, mode=666) = -1 (Invalid argument)
+openat(dfd=293, filename="/sys/devices/platform/uevent", flags=0x297cc0, mode=666) = -1 (Not a directory)
+openat(dfd=293, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A06:04/PNP0C80:08", flags=0x375c40, mode=666) = 465
+openat(dfd=293, filename="/sys/devices/virtual/block/ram13/events_async", flags=0x97f80, mode=666) = -1 (Not a directory)
+openat(dfd=283, filename="/sys/devices/virtual/block/ram9/queue/zone_write_granularity", flags=0x755d00, mode=666) = -1 (Not a directory)
+openat(dfd=283, filename="/sys/devices/pci0000:00/0000:00:02.0/modalias", flags=0x40000, mode=140) = 414
+openat(dfd=283, filename="/proc/17429/task/17429/net/udplite6/", flags=0x490601, mode=666) = -1 (Not a directory)
+openat(dfd=283, filename="/sys/firmware/acpi/interrupts/error", flags=0x450581, mode=666) = -1 (Not a directory)
+openat(dfd=287, filename="/sys/module/acpi/parameters/ec_event_clearing", flags=0xc3d01, mode=272) = -1 (Read-only file system)
+openat(dfd=287, filename="/sys/kernel/slab/ovl_aio_req", flags=0x612681, mode=666) = 423
+openat(dfd=287, filename="/sys/devices/system/cpu/cpu0/cache/index2/level", flags=0x10182, mode=666) = -1 (Not a directory)
+openat(dfd=287, filename="/sys/fs/ext4/pmem0p1/first_error_ino", flags=0x2, mode=1710) = -1 (Read-only file system)
+openat(dfd=287, filename="/proc/2/attr/prev", flags=0x81102, mode=70) = 430
+openat(dfd=314, filename="/sys/devices/system/cpu/cpu0/topology/die_cpus", flags=0x224940, mode=666) = 433
+openat(dfd=314, filename="/sys/devices/pci0000:00/0000:00:01.0", flags=0x6b6680, mode=666) = 436
+openat(dfd=270, filename="/sys/devices/virtual/block/loop1/ext_range", flags=0x0, mode=1401) = 412
+openat(dfd=270, filename="/sys/devices/virtual/block/ram14/queue/virt_boundary_mask", flags=0x206381, mode=407) = 415
+openat(dfd=270, filename="/sys/devices/virtual/mem/random/dev", flags=0x7d5482, mode=666) = -1 (Not a directory)
+openat(dfd=270, filename="/sys/devices/virtual/block/ram8/queue/minimum_io_size", flags=0x80002, mode=701) = -1 (Read-only file system)
+openat(dfd=281, filename="/sys/fs/fuse/connections", flags=0x225d02, mode=6040) = 422
+openat(dfd=281, filename="/proc/29608/task/29608/net/mcfilter", flags=0x15240, mode=666) = -1 (Not a directory)
+openat(dfd=308, filename="/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input0/id/product", flags=0x974c0, mode=666) = -1 (File exists)
+openat(dfd=308, filename=".//proc/sys/net/ipv4/route/gc_thresh/", flags=0x40, mode=666) = -1 (Not a directory)
+openat(dfd=308, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:01/hid", flags=0x610040, mode=666) = -1 (Not a directory)
+openat(dfd=22, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:01/modalias", flags=0x185e40, mode=666) = -1 (Read-only file system)
+openat(dfd=22, filename="/sys/class/block", flags=0x40, mode=666) = -1 (Is a directory)
+openat(dfd=22, filename="/sys/devices/virtual/bdi/1:10/read_ahead_kb", flags=0xb49c0, mode=666) = -1 (File exists)
+openat(dfd=22, filename="/sys/devices/pci0000:00/0000:00:1f.0", flags=0x4d6cc0, mode=666) = -1 (Invalid argument)
+openat(dfd=22, filename="/proc/sys/kernel/shm_rmid_forced", flags=0x2040, mode=666) = 441
+openat(dfd=402, filename="/proc/sys/net/ipv4/conf/all/bc_forwarding", flags=0x163c80, mode=10) = 444
+openat(dfd=79, filename="/sys/devices/virtual/block/ram9/range", flags=0x185f80, mode=10) = -1 (Read-only file system)
+openat(dfd=291, filename="/proc/irq/12/effective_affinity_list", flags=0x40800, mode=700) = 420
+openat(dfd=282, filename="/proc/2385/task/2385/net/tcp", flags=0x650001, mode=666) = -1 (Not a directory)
+openat(dfd=306, filename="/sys/kernel/slab/pid_2", flags=0x7b7181, mode=666) = 435
+openat(dfd=306, filename=".//sys/bus/memory/drivers_autoprobe/", flags=0x1b5c82, mode=666) = -1 (Not a directory)
+openat(dfd=306, filename="/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:04/device:24/adr", flags=0x755902, mode=666) = -1 (Not a directory)
+openat(dfd=360, filename="/sys/devices/virtual/block/ram2/queue/max_sectors_kb", flags=0x674602, mode=666) = -1 (Not a directory)
+openat(dfd=385, filename="/proc/sys/net/ipv4/tcp_min_rtt_wlen", flags=0x6b1782, mode=666) = -1 (Not a directory)
+openat(dfd=296, filename="/proc/sys/kernel/seccomp", flags=0x4b5082, mode=666) = -1 (Read-only file system)
+openat(dfd=21, filename="/sys/bus/pci/slots/5/adapter", flags=0x553a82, mode=666) = -1 (Not a directory)
+openat(dfd=405, filename="/sys/devices/virtual/block/ram14/queue/scheduler", flags=0x367b82, mode=44) = 467
+openat(dfd=288, filename="/sys/devices/platform/serial8250/tty/ttyS1/iomem_base", flags=0x737640, mode=666) = -1 (Not a directory)
+openat(dfd=288, filename="/proc/2/net/ip_vs_conn", flags=0x42640, mode=666) = 480

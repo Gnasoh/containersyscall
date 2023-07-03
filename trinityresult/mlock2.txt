@@ -1,0 +1,8 @@
+mlock2(start=0x7f364480f000, len=0) = 0
+mlock2(start=0x7f364691a000, len=0) = 0
+mlock2(start=0x7f242a3e8000, len=0) = 0
+mlock2(start=0x7f242a7eb000, len=0x1bb000) = -1 (Cannot allocate memory)
+mlock2(start=0x7f7d1aedf000, len=0) = 0
+mlock2(start=0x7f7d1aedf000, len=0) = 0
+mlock2(start=0x7ff8baa88000, len=0) = 0
+mlock2(start=0x7ff8b8b80000, len=0x84000) = -1 (Cannot allocate memory)

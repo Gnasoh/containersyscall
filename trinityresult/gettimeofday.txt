@@ -1,0 +1,11 @@
+gettimeofday(tv=0x7fe865586000, tz=0x7fe865d86000) = 0
+gettimeofday(tv=0x7fe865582000, tz=0x7fe865c86000) = 0
+gettimeofday(tv=0x7fc06bb6d000, tz=0x7fc06c06d000) = 0
+gettimeofday(tv=0x7fc06da75000, tz=0x0) = 0
+gettimeofday(tv=0x0, tz=0x1) = -1 (Bad address)
+gettimeofday(tv=0x7f8caf4e0000, tz=0x7f8caf4e0004) = 0
+gettimeofday(tv=0x7f8caf4e0000, tz=0x7f8caf4e3000) = 0
+gettimeofday(tv=0x7f2449176000, tz=0x7f2449176008) = 0
+gettimeofday(tv=0x7f2449979000, tz=0x0) = 0
+gettimeofday(tv=0x7f2a94c4a000, tz=0x7f2a94c4a001) = 0
+gettimeofday(tv=0x7f2a96d55000, tz=0x7f2a94c4c000) = 0

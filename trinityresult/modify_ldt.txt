@@ -1,0 +1,12 @@
+modify_ldt(func=0x0, ptr=0x55e9d4304cf0, bytecount=0x10000) = 0
+modify_ldt(func=0x1, ptr=0, bytecount=0x7979797a) = 0xffffffea
+modify_ldt(func=0x0, ptr=0x55e9d431af80, bytecount=0x10000) = 0
+modify_ldt(func=0x0, ptr=0x5653fca9d6e0, bytecount=0x10000) = 0
+modify_ldt(func=0x1, ptr=0, bytecount=0xe0e0e0e0) = 0xffffffea
+modify_ldt(func=0x0, ptr=0x5653fcab3970, bytecount=0x10000) = 0
+modify_ldt(func=0x0, ptr=0x55b52dd73f80, bytecount=0x10000) = 0
+modify_ldt(func=0x1, ptr=0, bytecount=37) = 0xffffffea
+modify_ldt(func=0x0, ptr=0x55b52dd8a210, bytecount=0x10000) = 0
+modify_ldt(func=0x0, ptr=0x55a74a32dec0, bytecount=0x10000) = 0
+modify_ldt(func=0x1, ptr=0, bytecount=0xdededede) = 0xffffffea
+modify_ldt(func=0x0, ptr=0x55a74a344150, bytecount=0x10000) = 0

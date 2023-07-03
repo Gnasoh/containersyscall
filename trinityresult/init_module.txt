@@ -1,0 +1,5 @@
+init_module(umod=0x7f56cf263000, len=0x8000, uargs=0x7f56ced63000) = -1 (Function not implemented)
+init_module(umod=0x7fed862a4000, len=0x25561fab, uargs=0x7fed862a4004) = -1 (Function not implemented)
+init_module(umod=0x7fb77830b000, len=2045, uargs=0x7fb77890f000) = -1 (Function not implemented)
+init_module(umod=0x7f1e17e66000, len=16, uargs=0x7f1e17e66008) = -1 (Function not implemented)
+init_module(umod=0x7ff16d6cc000, len=0x460e5c38, uargs=0x7ff16d6cc004) = -1 (Function not implemented)

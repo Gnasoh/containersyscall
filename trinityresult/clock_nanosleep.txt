@@ -1,0 +1,150 @@
+clock_nanosleep(which_clock=0x0, flags=0x5552e821293f, rqtp=0x1, rmtp=0x7f61acb13000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5552e821293f, rqtp=0x7f61aae0a000, rmtp=0x7f61aae0a000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x7f61aac0a000, rmtp=0x7f61aaa06000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x5552e821293f, rqtp=0x8, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5552e821293f, rqtp=0x7f61ab00a000, rmtp=0x7f61aac0a000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x0, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x1, rmtp=0x5) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x7f61aaa0a000, rmtp=0x0) = 0
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x7f61aae0a000, rmtp=0x7f61aae0a004) = 0
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x0, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x4, rmtp=0x7f61aaa06000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5552e821293f, rqtp=0x7f61ab10a000, rmtp=0x7f61ab10a000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x7f61aaa06000, rmtp=0x7f61aaa06000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x7f61aaa08000, rmtp=0x7f61aaa08008) = 0
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x4, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x0, rmtp=0x7f61aaa09000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x1, rmtp=0x5) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x1, rmtp=0x5) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x8, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x0, rmtp=0x7f61aae0a000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5552e821293f, rqtp=0x7f61aaa0a000, rmtp=0x7f61aaa06000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x5552e821293f, rqtp=0x4, rmtp=0x7f61aae0a000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x0, rmtp=0x7f75bac18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x0, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x4, rmtp=0x7f75bae18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x1, rmtp=0x5) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x8, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x8, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x7f75bb018000, rmtp=0x7f75bb018008) = 0
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x8, rmtp=0x9) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x4, rmtp=0x7f75bb118000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x7f75bae18000, rmtp=0x7f75bae18008) = 0
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x7f75baa15000, rmtp=0x7f75baa15004) = -1 (Invalid argument)
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x7f75baa14000, rmtp=0x7f75bac18000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x7f75bae18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x7f75baa13000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x7f75bae18000, rmtp=0x7f75baa13000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x8, rmtp=0x7f75bb218000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x7f75bb118000, rmtp=0x7f75bb118001) = 0
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x1, rmtp=0x9) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x8, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x1, rmtp=0x7f75bac18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x1, rmtp=0x7f75bae18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x4, rmtp=0x7f75baa13000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x8, rmtp=0x10) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x4, rmtp=0x7f75bac18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x4, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x1, rmtp=0x7f75bb218000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x8, rmtp=0x7f75baa18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x0, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x1, rmtp=0x7f75baa18000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x5588beca4792, rqtp=0x7f75bb018000, rmtp=0x7f75baa13000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x5588beca4792, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x5588beca4792, rqtp=0x7f75bb218000, rmtp=0x7f75bb218001) = 0
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x7f75bb218000, rmtp=0x7f75bae18000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x5588beca4792, rqtp=0x7f75bac18000, rmtp=0x7f75bac18001) = 0
+clock_nanosleep(which_clock=0x0, flags=0x5588beca4792, rqtp=0x8, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x1, rmtp=0x7f317ce02000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x4, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x0, rmtp=0x7f317d506000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x7f317ce06000, rmtp=0x7f317ce06001) = 0
+clock_nanosleep(which_clock=0x0, flags=0x557c42951291, rqtp=0x7f317ce01000, rmtp=0x7f317ce01004) = 0
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x1, rmtp=0x9) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x0, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x0, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x7f317ce06000, rmtp=0x7f317ce06004) = 0
+clock_nanosleep(which_clock=0x1, flags=0x7f317eeffcf0, rqtp=0x7f317ce01000, rmtp=0x7f317ce01008) = 0
+clock_nanosleep(which_clock=0x1, flags=0x557c42951291, rqtp=0x1, rmtp=0x7f317d006000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x557c42951291, rqtp=0x8, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x557c42951291, rqtp=0x7f317ce03000, rmtp=0x7f317ce03004) = 0
+clock_nanosleep(which_clock=0x1, flags=0x7f317eeffcf0, rqtp=0x7f317d206000, rmtp=0x7f317ce03000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x1, rmtp=0x7f317ce02000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x7f317d206000, rmtp=0x7f317d606000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x557c42951291, rqtp=0x1, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x557c42951291, rqtp=0x8, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x557c42951291, rqtp=0x7f317d206000, rmtp=0x0) = 0
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x8, rmtp=0x9) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x8, rmtp=0x7f317d506000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x1, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x4, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x7f317eeffcf0, rqtp=0x7f317d606000, rmtp=0x7f317d006000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x7f317eeffcf0, rqtp=0x0, rmtp=0x7f317ce02000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x55c7c437e, rqtp=0x4, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x55c7c437e, rqtp=0x7f05aa6e7000, rmtp=0x7f05aa0e7000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x4, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x7f05aa2e7000, rmtp=0x0) = 0
+clock_nanosleep(which_clock=0x0, flags=0x55c7c437e, rqtp=0x0, rmtp=0x7f05aa0e4000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x55c7c437e, rqtp=0x7f05aa0e3000, rmtp=0x7f05aa0e3001) = 0
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x4, rmtp=0x7f05aa7e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x7f05aa0e7000, rmtp=0x0) = 0
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x7f05aa0e7000, rmtp=0x7f05aa0e7000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x0, rmtp=0x7f05aa6e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55c7c437e, rqtp=0x7f05aa2e7000, rmtp=0x7f05aa2e7001) = 0
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x1, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x4, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x7f05aa0e2000, rmtp=0x7f05aa0e2001) = 0
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x8, rmtp=0x7f05aa4e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x7f05aa4e7000, rmtp=0x7f05aa4e7004) = 0
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x0, rmtp=0x7f05aa0e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x8, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x0, rmtp=0x7f05aa6e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x55c7c437e, rqtp=0x7f05aa0e3000, rmtp=0x7f05aa0e3001) = 0
+clock_nanosleep(which_clock=0x0, flags=0x55c7c437e, rqtp=0x0, rmtp=0x7f05aa0e7000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x55da2ffc6, rqtp=0x0, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x55da2ffc6, rqtp=0x7f59fa042000, rmtp=0x7f59fa042008) = 0
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x4, rmtp=0xc) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x1, rmtp=0x5) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x4, rmtp=0x7f59fa646000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x7f59fa042000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x7f59fa246000, rmtp=0x7f59fa246004) = 0
+clock_nanosleep(which_clock=0x0, flags=0x55da2ffc6, rqtp=0x7f59fa846000, rmtp=0x7f59fa846004) = 0
+clock_nanosleep(which_clock=0x1, flags=0x55da2ffc6, rqtp=0x1, rmtp=0x2) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55da2ffc6, rqtp=0x7f59fa646000, rmtp=0x7f59fa646004) = 0
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x7f59fa246000, rmtp=0x7f59fa042000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x55da2ffc6, rqtp=0x0, rmtp=0x7f59fa846000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x55da2ffc6, rqtp=0x7f59fa043000, rmtp=0x7f59fa043000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x55da2ffc6, rqtp=0x7f59fa246000, rmtp=0x7f59fa246008) = 0
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x7f59fa046000, rmtp=0x7f59fa046000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x55da2ffc6, rqtp=0x7f59fa246000, rmtp=0x7f59fa846000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x55da2ffc6, rqtp=0x1, rmtp=0x0) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x565082306, rqtp=0x7f49a9bd9000, rmtp=0x7f49a9bd9004) = 0
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x0, rmtp=0x7f49a9fda000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x1, rqtp=0x7f49a9fda000, rmtp=0x7f49aa1da000) = 0
+clock_nanosleep(which_clock=0x0, flags=0x565082306, rqtp=0x0, rmtp=0x7f49a9dda000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x565082306, rqtp=0x0, rmtp=0x7f49aa2da000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x0, flags=0x565082306, rqtp=0x7f49a9bd5000, rmtp=0x7f49aa3da000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x4, rmtp=0x7f49a9bda000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x1, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x0, rmtp=0x4) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x0, rmtp=0x8) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x7f49aa2da000, rmtp=0x7f49a9bd6000) = 0
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x0, rmtp=0x1) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x1, rqtp=0x7f49aa1da000, rmtp=0x7f49aa1da008) = 0
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x8, rmtp=0x10) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x1, rmtp=0x7f49abce4000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x1, flags=0x565082306, rqtp=0x7f49a9bda000, rmtp=0x7f49a9bda001) = 0
+clock_nanosleep(which_clock=0x2, flags=0x565082306, rqtp=0x7f49a9bd6000, rmtp=0x7f49a9bd5000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x0, rmtp=0x7f49aa2da000) = -1 (Bad address)
+clock_nanosleep(which_clock=0x2, flags=0x1, rqtp=0x7f49aa3da000, rmtp=0x7f49aa3da000) = 0
+clock_nanosleep(which_clock=0x2, flags=0x565082306, rqtp=0x7f49a9bda000, rmtp=0x7f49a9fda000) = 0

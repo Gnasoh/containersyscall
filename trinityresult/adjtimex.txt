@@ -1,0 +1,12 @@
+adjtimex(txc_p=0x7f0cb0191000) = 5
+adjtimex(txc_p=0x0) = -1 (Bad address)
+adjtimex(txc_p=0x7f9d6b3bb000) = 5
+adjtimex(txc_p=0x7f9d6b1b6000) = 5
+adjtimex(txc_p=0x7f76191cb000) = 5
+adjtimex(txc_p=0x7f76191cc000) = 5
+adjtimex(txc_p=0x7f3bf28ba000) = 5
+adjtimex(txc_p=0x7f3bf22b7000) = -1 (Operation not permitted)
+adjtimex(txc_p=0x7fb222ca3000) = 5
+adjtimex(txc_p=0x7fb2230a6000) = 5
+adjtimex(txc_p=0x7fcd6717e000) = 5
+adjtimex(txc_p=0x0) = -1 (Bad address)

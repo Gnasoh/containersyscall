@@ -1,0 +1,10 @@
+dup(fildes=108) = 412
+dup(fildes=108) = 415
+dup(fildes=286) = 412
+dup(fildes=286) = 415
+dup(fildes=225) = 412
+dup(fildes=225) = 415
+dup(fildes=7) = 412
+dup(fildes=7) = 415
+dup(fildes=304) = 414
+dup(fildes=304) = 417

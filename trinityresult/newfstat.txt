@@ -1,0 +1,12 @@
+newfstat(fd=284, statbuf=0x7f7d8ff7e000) = 0
+newfstat(fd=284, statbuf=0x7f7d8fd7e000) = 0
+newfstat(fd=11, statbuf=0x0) = -1 (Bad address)
+newfstat(fd=11, statbuf=0x8) = -1 (Bad address)
+newfstat(fd=11, statbuf=0x8) = -1 (Bad address)
+newfstat(fd=402, statbuf=0x7fb8587b2000) = 0
+newfstat(fd=402, statbuf=0x7fb858db6000) = 0
+newfstat(fd=17, statbuf=0x7f432c66f000) = 0
+newfstat(fd=17, statbuf=0x7f432a766000) = 0
+newfstat(fd=8, statbuf=0x4) = -1 (Bad address)
+newfstat(fd=26, statbuf=0x7f5419e2d000) = 0
+newfstat(fd=26, statbuf=0x7f541bb37000) = 0

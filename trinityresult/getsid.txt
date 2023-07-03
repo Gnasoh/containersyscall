@@ -1,0 +1,10 @@
+getsid(pid=28352) = 2
+getsid(pid=1) = 1
+getsid(pid=15312) = 2
+getsid(pid=1) = 1
+getsid(pid=22078) = 2
+getsid(pid=0) = 2
+getsid(pid=0) = 2
+getsid(pid=0) = 2
+getsid(pid=15268) = 2
+getsid(pid=0) = 2

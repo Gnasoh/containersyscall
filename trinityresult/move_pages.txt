@@ -1,0 +1,4 @@
+move_pages(pid=29667, nr_pages=36, pages=0x5632af0e23a0, nodes=0x5632af0e33b0, status=0x5632af0e3450, flags=0x0) = -1 (Function not implemented)
+move_pages(pid=17150, nr_pages=364, pages=0x557820609620, nodes=0x55782060a630, status=0x55782060abf0, flags=0x0) = -1 (Function not implemented)
+move_pages(pid=1, nr_pages=206, pages=0x55fad08da660, nodes=0x55fad08db670, status=0x55fad08db9b0, flags=0x0) = -1 (Function not implemented)
+move_pages(pid=13436, nr_pages=342, pages=0x55a2a966a830, nodes=0x55a2a966b840, status=0x55a2a966bda0, flags=0x0) = -1 (Function not implemented)

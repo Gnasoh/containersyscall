@@ -1,0 +1,6 @@
+add_key(_type=0x55fdb8575fdb, _description=0x7fc344cb9000, _payload=0x7fc344cb9001, plen=4096, ringid=0xffffffffffffffff) = -1 (Function not implemented)
+add_key(_type=0x5641231a0e6c, _description=0x7f0dcb954004, _payload=0x7f0dcb954008, plen=8, ringid=0xffffffffffffffff) = -1 (Function not implemented)
+add_key(_type=0x55f7c4442e6c, _description=0x7ff598851000, _payload=0x7ff598851000, plen=120, ringid=0xffffffffffffffff) = -1 (Function not implemented)
+add_key(_type=0x5621aaa86e6c, _description=0x0, _payload=0x7fe962cac000, plen=0, ringid=0xffffffffffffffff) = -1 (Function not implemented)
+add_key(_type=0x5589367e9fdb, _description=0x7f84540fe000, _payload=0x7f84541fe000, plen=0xafafb0, ringid=0xffffffffffffffff) = -1 (Function not implemented)
+add_key(_type=0x5635284b2f24, _description=0x7f3abad3a001, _payload=0x7f3abc742000, plen=4096, ringid=0xffffffffffffffff) = -1 (Function not implemented)

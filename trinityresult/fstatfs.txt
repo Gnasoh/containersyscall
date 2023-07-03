@@ -1,0 +1,17 @@
+fstatfs(fd=230, buf=0x7fda8a8fb000) = 0
+fstatfs(fd=329, buf=0x7fda8acfb000) = 0
+fstatfs(fd=307, buf=0x4) = -1 (Bad address)
+fstatfs(fd=307, buf=0x1) = -1 (Bad address)
+fstatfs(fd=307, buf=0x0) = -1 (Bad address)
+fstatfs(fd=307, buf=0x7f8c77a38000) = 0
+fstatfs(fd=300, buf=0x8) = -1 (Bad address)
+fstatfs(fd=182, buf=0x7fd6cf539000) = 0
+fstatfs(fd=301, buf=0x7fd6cf239000) = 0
+fstatfs(fd=27, buf=0x0) = -1 (Bad address)
+fstatfs(fd=141, buf=0x8) = -1 (Bad address)
+fstatfs(fd=141, buf=0x0) = -1 (Bad address)
+fstatfs(fd=141, buf=0x4) = -1 (Bad address)
+fstatfs(fd=141, buf=0x7fbc3d668000) = 0
+fstatfs(fd=86, buf=0x4) = -1 (Bad address)
+fstatfs(fd=390, buf=0x7f131e676000) = 0
+fstatfs(fd=390, buf=0x7f131cc6c000) = 0

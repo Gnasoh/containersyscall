@@ -1,0 +1,5 @@
+iopl(level=-7, regs=0x8) = -1 (Function not implemented)
+iopl(level=16, regs=0x8) = -1 (Function not implemented)
+iopl(level=44, regs=0x8) = -1 (Function not implemented)
+iopl(level=14112, regs=0x7f7594d8e000) = -1 (Function not implemented)
+iopl(level=138, regs=0x7fba2390e000) = -1 (Function not implemented)

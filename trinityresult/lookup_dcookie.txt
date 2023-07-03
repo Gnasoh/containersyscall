@@ -1,0 +1,4 @@
+lookup_dcookie(cookie64=12851, buf=0x4, len=0xe53acf) = -1 (Function not implemented)
+lookup_dcookie(cookie64=-141, buf=0x0, len=1) = -1 (Function not implemented)
+lookup_dcookie(cookie64=0x4bb0e05b27ec0c, buf=0x7ff2c838f000, len=3084) = -1 (Function not implemented)
+lookup_dcookie(cookie64=0xc2038c288416b, buf=0x4, len=12288) = -1 (Function not implemented)
